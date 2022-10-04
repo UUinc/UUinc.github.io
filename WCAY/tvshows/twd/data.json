@@ -5,4 +5,11 @@
         "episode":      16,   
         "available":    true  
     }  
+    /*
+    title
+    characters name
+    characters image link
+    questions[]
+    answers[]
+    */
 }
