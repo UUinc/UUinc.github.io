@@ -1,15 +1,115 @@
-{  
-    "tvshow": 
-    {  
-        "title":       "the walking dead",   
-        "episode":      16,   
-        "available":    true  
-    }  
-    /*
-    title
-    characters name
-    characters image link
-    questions[]
-    answers[]
-    */
+{
+    "tvShows":
+    [
+      {
+        "title": "The Walking Dead",
+        "characters": 
+        [
+            "Carl Grimes", "Carol Peletier", "Daryl Dixon", "Glenn Rhee", "Maggie Greene", "Michonne", "Morgan Jones", "Negan", "Rick Grimes", "Shane Walsh"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "How would your friends describe you (before the apocalypse)?",
+                "Answers":
+                [
+                    "Sweet",
+                    "Nurturing",
+                    "Kind",
+                    "Guarded"
+                ]
+            },
+            {
+                "Question": "Which friend are you in your friend group?",
+                "Answers":
+                [
+                    "Funny",
+                    "Responsible",
+                    "Wild",
+                    "Smart"
+                ]
+            },
+            {
+                "Question": "What’s your favorite food?",
+                "Answers":
+                [
+                    "Spaghetti",
+                    "Tajine",
+                    "Pizza",
+                    "Whiskey. Who needs food?"
+                ]
+            },
+            {
+                "Question": "Which weapon would you use to fight walkers?",
+                "Answers":
+                [
+                    "Stick",
+                    "Revolver",
+                    "Explosives",
+                    "Crossbow"
+                ]
+            },
+            {
+                "Question": "How do you think the outbreak started?",
+                "Answers":
+                [
+                    "It was a government experiment",
+                    "I think a virus mutated",
+                    "It was a biological attack",
+                    "I still think Rick is dreaming"
+                ]
+            },
+            {
+                "Question": "What’s the first thing you do when the zombies attack?",
+                "Answers":
+                [
+                    "Get out of town",
+                    "Hide",
+                    "Get your family",
+                    "Stock up on some weapons"
+                ]
+            },
+            {
+                "Question": "Who do you respect most as a leader?",
+                "Answers":
+                [
+                    "Rick Grimes",
+                    "King Ezekiel",
+                    "Maggie Greene",
+                    "Michonne"
+                ]
+            },
+            {
+                "Question": "Which villain are you most like?",
+                "Answers":
+                [
+                    "Shane Walsh",
+                    "The Governor",
+                    "Negan",
+                    "Alpha"
+                ]
+            },
+            {
+                "Question": "Do you trust other people?",
+                "Answers":
+                [
+                    "Only as far as I can throw them",
+                    "Everyone’s innocent 'til proven guilty",
+                    "I trust nobody",
+                    "I test them before I can trust them"
+                ]
+            },
+            {
+                "Question": "What's your favorite music genre?",
+                "Answers":
+                [
+                    "Hip-hop",
+                    "Rock 'n' roll",
+                    "Pop",
+                    "Jazz"
+                ]
+            }
+        ]
+      }
+    ]
 }
