@@ -1,5 +1,5 @@
 {
-    "tvShows":
+    "tvShow":
     [
       {
         "title": "The Walking Dead",
@@ -107,6 +107,226 @@
                     "Rock 'n' roll",
                     "Pop",
                     "Jazz"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "La Casa Del Papel",
+        "characters": 
+        [
+            "Raquel Murillo", "Berlín", "Denver", "El Profesor", "Tokio", "Río", "Nairobi", "Palermo", "Mónica Gaztambide", "Arturo Román"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "Which personality trait suits you best?",
+                "Answers":
+                [
+                    "Gentle",
+                    "Optimistic",
+                    "Thoughtful",
+                    "Sensitive"
+                ]
+            },
+            {
+                "Question": "There’s an issue between you and someone else, do you…",
+                "Answers":
+                [
+                    "Negotiate until you find a logical solution",
+                    "Finish it off with a joke",
+                    "Try to please the other person",
+                    "Start crying"
+                ]
+            },
+            {
+                "Question": "What annoys you the most?",
+                "Answers":
+                [
+                    "To be betrayed",
+                    "To be abused",
+                    "To be manipulated",
+                    "To not be respected"
+                ]
+            },
+            {
+                "Question": "If someone tells you they have feelings for you, how would you react?",
+                "Answers":
+                [
+                    "I get very shy and run away",
+                    "I'll thank them for their honesty and tell them I need time to think",
+                    "I love new experiences, so I’m definitely up for trying",
+                    "I’ll immediately think that they’re joking"
+                ]
+            },
+            {
+                "Question": "Which of these animals do you prefer?",
+                "Answers":
+                [
+                    "Cats",
+                    "Dogs",
+                    "Horses",
+                    "Birds"
+                ]
+            },
+            {
+                "Question": "If someone annoyed you so much, how would you react?",
+                "Answers":
+                [
+                    "I’d hurt them with my words",
+                    "I’d try to bother them",
+                    "I’d tie them to a chair",
+                    "I’d slap their face"
+                ]
+            },
+            {
+                "Question": "In a stressful situation, you are more of the type to:",
+                "Answers":
+                [
+                    "get upset and break stuff",
+                    "try to relativize and calm others",
+                    "panic completely",
+                    "stay calm and think about solutions "
+                ]
+            },
+            {
+                "Question": "When you're the one preparing a big party, you're more of the type to:",
+                "Answers":
+                [
+                    "completely forgetting that you had planned a big evening and having to deal with it hard",
+                    "invite everyone and anyone, suddenly you end up quickly overwhelmed",
+                    "don't worry too much, everyone bring something back",
+                    "organize everything down to the smallest detail: food, drinks, activities, music"
+                ]
+            },
+            {
+                "Question": "What would you do if a group of hostages was causing trouble during a heist?",
+                "Answers":
+                [
+                    "Threaten the group to shut them up",
+                    "Call the Professor for advice",
+                    "Shoot one of them in the leg so they know you mean business",
+                    "Separate them into different rooms so they can't plot together"
+                ]
+            },
+            {
+                "Question": "If you had to specialize in a crime, it would be:",
+                "Answers":
+                [
+                    "Computer hacking",
+                    "Drug traffic",
+                    "Jewelry theft",
+                    "The making of counterfeit money"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "",
+        "characters": 
+        [
+            "", "", "", "", "", "", "", "", "", ""
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
                 ]
             }
         ]
