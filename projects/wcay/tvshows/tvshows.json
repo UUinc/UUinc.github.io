@@ -222,6 +222,776 @@
         ]
       },
       {
+        "title": "Game Of Thrones",
+        "characters": 
+        [
+            "Sansa Stark", "Jaime Lannister", "Arya Stark", "Cersei Lannister", "Jon Snow", "Daenerys Targaryen", "Tyrion Lannister", "Samwell Tarly", "Theon Greyjoy", "Bran Stark"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "Choose the word that best describes you",
+                "Answers":
+                [
+                    "Strong",
+                    "Funny",
+                    "Quiet",
+                    "Leader"
+                ]
+            },
+            {
+                "Question": "Which of these people do you find the most attractive?",
+                "Answers":
+                [
+                    "Jaime Lannister",
+                    "Daenerys Targaryen",
+                    "Cersei Lannister",
+                    "Jon Snow"
+                ]
+            },
+            {
+                "Question": "Pick a place",
+                "Answers":
+                [
+                    "King's Landing",
+                    "Winterfell",
+                    "Casterly Rock",
+                    "Braavos"
+                ]
+            },
+            {
+                "Question": "Choose your drink!",
+                "Answers":
+                [
+                    "Wine",
+                    "Coffee",
+                    "Beer",
+                    "Tea"
+                ]
+            },
+            {
+                "Question": "How would you try to defeat a White Walker?",
+                "Answers":
+                [
+                    "Dragonglass",
+                    "Sword",
+                    "Axe",
+                    "With my bare hands"
+                ]
+            },
+            {
+                "Question": "Someone killed your entire family. What do you do?",
+                "Answers":
+                [
+                    "Mourn and wear black",
+                    "I would avenge them, no matter what!",
+                    "As long as I live, no one can ever harm them!",
+                    "Nothing"
+                ]
+            },
+            {
+                "Question": "What do you see yourself doing the most in retirement?",
+                "Answers":
+                [
+                    "Travelling The World",
+                    "Fishing or Boating",
+                    "Writing A Book",
+                    "Meeting as many people as possible and making connections"
+                ]
+            },
+            {
+                "Question": "What superpower would you most like to have?",
+                "Answers":
+                [
+                    "Flight",
+                    "Invisibility",
+                    "Telekinesis",
+                    "Immortality"
+                ]
+            },
+            {
+                "Question": "You are attending a party. Choose which one of these describes how you would act",
+                "Answers":
+                [
+                    "Cracking everyone up with jokes",
+                    "Listening to stories and getting to know people better",
+                    "Flirting with as many people as possible",
+                    "I would be the shyest person in the room"
+                ]
+            },
+            {
+                "Question": "Who should sit on the Iron Throne?",
+                "Answers":
+                [
+                    "Cersei Lannister",
+                    "Daenerys Targaryen",
+                    "Jon Snow",
+                    "Tyrion Lannister"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "Breaking Bad",
+        "characters": 
+        [
+            "Walter White, Jr.", "Skyler White", "Skinny Pete", "Jesse Pinkman", "Gus Fring", "Walter White", "Mike Ehrmantraut", "Hank Schrader", "Saul Goodman", "Marie Schrader"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "Could you do immoral things for your family?",
+                "Answers":
+                [
+                    "Yes",
+                    "No",
+                    "Depends, man",
+                    "It's against all my principles, but maybe"
+                ]
+            },
+            {
+                "Question": "Would the horror of your actions come back to haunt you?",
+                "Answers":
+                [
+                    "You got to do what you got to do",
+                    "If it gains me respect I pride myself on it",
+                    "I have too much empathy and guilt to be involved",
+                    "I sometimes can't handle it"
+                ]
+            },
+            {
+                "Question": "What do you do when you are upset?",
+                "Answers":
+                [
+                    "Get high and play video games",
+                    "Act like nothing is wrong",
+                    "Smoke",
+                    "Sit quietly and think about it"
+                ]
+            },
+            {
+                "Question": "How important is pride to you?",
+                "Answers":
+                [
+                    "It's everything I have",
+                    "I don't have that much of a sense of self",
+                    "Family is all that matters, I'm selfless",
+                    "Pride matters but in moderation"
+                ]
+            },
+            {
+                "Question": "How smart are you?",
+                "Answers":
+                [
+                    "I know what I need to know",
+                    "I'm a genius",
+                    "People underestimate my intelligence",
+                    "I'm well rounded"
+                ]
+            },
+            {
+                "Question": "How well do you handle stress?",
+                "Answers":
+                [
+                    "I thrive off of it",
+                    "I break down if I'm not in control",
+                    "As long as someone else is the decision-maker, I'm fine",
+                    "I'm driven by my work"
+                ]
+            },
+            {
+                "Question": "How do you learn?",
+                "Answers":
+                [
+                    "From books and dedication",
+                    "Through hands-on practice",
+                    "Through repetition",
+                    "I can self-teach almost anything"
+                ]
+            },
+            {
+                "Question": "How would you deal with the sickness of a family member?",
+                "Answers":
+                [
+                    "Denial",
+                    "Try to find a helpful solution to offer",
+                    "Empathize",
+                    "Try not to display too much emotion because you are so masculine"
+                ]
+            },
+            {
+                "Question": "How do you feel about risk?",
+                "Answers":
+                [
+                    "It makes me feel alive",
+                    "It's all part of the game",
+                    "I can't handle it",
+                    "It's part of my duty"
+                ]
+            },
+            {
+                "Question": "What would push you into the drug business?",
+                "Answers":
+                [
+                    "Individual ambition",
+                    "Money",
+                    "Family",
+                    "Nothing could"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "Prison Break",
+        "characters": 
+        [
+            "Gretchen Morgan", "Lincoln Burrows ", "Alexander Mahone", "Sara Tancredi", "T-Bag", "C-Note", "Michael Scofield", "Paul Kellerman", "Fernando Sucre", "Brad Bellick"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "What is your strength?",
+                "Answers":
+                [
+                    "Dedication",
+                    "Discipline",
+                    "Creativity",
+                    "Trustworthiness"
+                ]
+            },
+            {
+                "Question": "What is your biggest fear?",
+                "Answers":
+                [
+                    "Being alone without family or friends",
+                    "Not being successful financially",
+                    "My greatest fear is to have no more fear",
+                    "Not believing in myself"
+                ]
+            },
+            {
+                "Question": "What really makes you angry?",
+                "Answers":
+                [
+                    "Liars and Lies",
+                    "Abusive Parents",
+                    "Screaming Children",
+                    "Bad Manners"
+                ]
+            },
+            {
+                "Question": "What makes you laugh the most?",
+                "Answers":
+                [
+                    "Sarcastic jokes",
+                    "Watching a stand-up comedian on TV",
+                    "Reading a comic book",
+                    "Seeing someone making fun of someone else"
+                ]
+            },
+            {
+                "Question": "If you could choose to do anything for a day, what would it be?",
+                "Answers":
+                [
+                    "Working",
+                    "Playing games",
+                    "Traveling",
+                    "Doing sports"
+                ]
+            },
+            {
+                "Question": "Would you rather?",
+                "Answers":
+                [
+                    "Ride a bike",
+                    "Ride a horse",
+                    "Drive a car",
+                    "Walk"
+                ]
+            },
+            {
+                "Question": "Do you like or dislike surprises?",
+                "Answers":
+                [
+                    "I like surprises",
+                    "I hate surprises",
+                    "Only if they are from close people",
+                    "Only from strangers"
+                ]
+            },
+            {
+                "Question": "What do you do in the evenings?",
+                "Answers":
+                [
+                    "Visit friends",
+                    "Play games",
+                    "Watch movies",
+                    "Read book"
+                ]
+            },
+            {
+                "Question": "How many days would you live on a deserted island?",
+                "Answers":
+                [
+                    "I would die the first day",
+                    "I would last several months",
+                    "I would live several years",
+                    "I would live all my life"
+                ]
+            },
+            {
+                "Question": "Weapon of Choice?",
+                "Answers":
+                [
+                    "Intelligence",
+                    "Gun",
+                    "Fists",
+                    "Knife"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "Vikings",
+        "characters": 
+        [
+            "Judith", "Torvi", "Lagertha", "Athelstan", "Ragnar Lothbrok", "Floki", "Ivar", "Björn Ironside", "Rollo", "King Ecbert"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "Which Norse god/goddess would you consider your patron?",
+                "Answers":
+                [
+                    "Odin, the god of war and wisdom",
+                    "Freyja, goddess of love and battle",
+                    "Loki, the god of mischief",
+                    "Thor, the god of thunder and health"
+                ]
+            },
+            {
+                "Question": "What role would you play in Viking society?",
+                "Answers":
+                [
+                    "Warrior",
+                    "Shieldmaiden",
+                    "Ruler",
+                    "Builder"
+                ]
+            },
+            {
+                "Question": "Your village is being attacked by raiders. How do you react?",
+                "Answers":
+                [
+                    "Wait for the battle to end and raid their village",
+                    "Make a sacrifice to the gods",
+                    "Find the traitor who gave up the location of your home",
+                    "Organize the tribe for a fight"
+                ]
+            },
+            {
+                "Question": "What's your relationship with violence?",
+                "Answers":
+                [
+                    "The more the better!",
+                    "It's a means to an end",
+                    "It can be used when necessary",
+                    "It should be avoided"
+                ]
+            },
+            {
+                "Question": "It's time for battle! What do you take to the battlefield?",
+                "Answers":
+                [
+                    "Just a big two-handed axe",
+                    "A sword and a shield",
+                    "A small hatchet and a long knife",
+                    "Armor; axe, sword, or spear; sometimes a shield"
+                ]
+            },
+            {
+                "Question": "Which of these would be your fatal flaw?",
+                "Answers":
+                [
+                    "I can be too proud",
+                    "My ambition sometimes blinds me",
+                    "I can be too impulsive and agressive",
+                    "I am unsure of too many things"
+                ]
+            },
+            {
+                "Question": "Which among these is most important to you?",
+                "Answers":
+                [
+                    "Knowledge",
+                    "Inner peace",
+                    "Faith",
+                    "Glory"
+                ]
+            },
+            {
+                "Question": "What gets you through life?",
+                "Answers":
+                [
+                    "My adaptability",
+                    "My intelligence",
+                    "My determination",
+                    "My thirst for glory"
+                ]
+            },
+            {
+                "Question": "What is your end goal?",
+                "Answers":
+                [
+                    "To understand the things I don't",
+                    "Safety and security for the ones I love",
+                    "Continued devotion to my faith",
+                    "To be remembered as a great person"
+                ]
+            },
+            {
+                "Question": "Your friends would consider you",
+                "Answers":
+                [
+                    "The leader who always thinks ahead",
+                    "The caring and protective one",
+                    "The strong one",
+                    "The walking encyclopedia"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "Dark",
+        "characters": 
+        [
+            "Bartosz Tiedemann", "Ulrich Nielsen", "Katharina Nielsen", "Jonas Kahnwald", "Magnus Nielson", "Martha Nielsen", "Charlotte Doppler", "Mikkel Nielsen", "Hannah Kahnwald", "Peter Doppler"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ]
+      },
+      {
+        "title": "",
+        "characters": 
+        [
+            "", "", "", "", "", "", "", "", "", ""
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ]
+      },
+      {
+        "title": "",
+        "characters": 
+        [
+            "", "", "", "", "", "", "", "", "", ""
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ]
+      },
+      {
         "title": "",
         "characters": 
         [
