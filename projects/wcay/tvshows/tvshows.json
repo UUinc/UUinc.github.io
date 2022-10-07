@@ -670,433 +670,763 @@
         "quiz": 
         [
             {
-                "Question": "",
+                "Question": "What do you want the most?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Power",
+                    "Love",
+                    "Fame",
+                    "Family"
                 ]
             },
             {
-                "Question": "",
+                "Question": "What will you do on a holiday?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Read",
+                    "Go out with friends",
+                    "Watch a movie",
+                    "Spend day with bae"
                 ]
             },
             {
-                "Question": "",
+                "Question": "What is a Perfect Day?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Listening to music",
+                    "Reading a book",
+                    "Going to concert",
+                    "Crushing your enemies"
                 ]
             },
             {
-                "Question": "",
+                "Question": "Choose a chess piece:",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Queen",
+                    "Pawn",
+                    "Rook",
+                    "Knight"
                 ]
             },
             {
-                "Question": "",
+                "Question": "Which word describes you best?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Ambitious",
+                    "Clever",
+                    "Manipulative",
+                    "Loyal"
                 ]
             },
             {
-                "Question": "",
+                "Question": "How do you feel about your career?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "I think I'm on the right track",
+                    "I have a job that I'm not happy with",
+                    "What am I doing with my life?",
+                    "There's room for growth, but I'm in the right career"
                 ]
             },
             {
-                "Question": "",
+                "Question": "What’s the first thing you do in the morning?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Take a shower",
+                    "Meditate",
+                    "Make the bed",
+                    "Check your phone"
                 ]
             },
             {
-                "Question": "",
+                "Question": "How do you feel about kids?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "I want kids one day, but my life isn't ready for them yet",
+                    "I have kids",
+                    "I don't think I ever want kids",
+                    "I want kids soon or already have them"
                 ]
             },
             {
-                "Question": "",
+                "Question": "Which of the following businesses would you be interested in managing?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Art Gallery",
+                    "Hotel",
+                    "Nightclub",
+                    "Restaurant"
                 ]
             },
             {
-                "Question": "",
+                "Question": "Which of the following cities would you consider residing in for at least a year?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Bangkok",
+                    "Vancouver",
+                    "Tokyo",
+                    "Sydney"
                 ]
             }
         ]
       },
       {
-        "title": "",
+        "title": "Skins",
         "characters": 
         [
-            "", "", "", "", "", "", "", "", "", ""
+            "James Cook", "Cassie", "Effy", "Tony", "Mini McGuinness", "Michelle", "Sid", "Chris", "Alo Creevey", "Naomi Campbell"
         ],
         "quiz": 
         [
             {
-                "Question": "",
+                "Question": "School is...",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "An interesting social experiment",
+                    "Depressing",
+                    "Oh, school. Yeah. Haven't been there in a while",
+                    "Only for smart people"
                 ]
             },
             {
-                "Question": "",
+                "Question": "I think of food as...",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Something you eat to keep going. Simple",
+                    "I don't know... yummy?",
+                    "Chips and burgers",
+                    "Genius. Breakfast is my heroin"
                 ]
             },
             {
-                "Question": "",
+                "Question": "Pick a drink",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Wine",
+                    "Beer",
+                    "Water",
+                    "Vodka"
                 ]
             },
             {
-                "Question": "",
+                "Question": "What do you like to do in your free time?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Get high",
+                    "Get drunk",
+                    "Listen to music",
+                    "Absolutely nothing"
                 ]
             },
             {
-                "Question": "",
+                "Question": "What's your favourite thing about yourself?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Eyes",
+                    "My body",
+                    "Smile",
+                    "Style"
                 ]
             },
             {
-                "Question": "",
+                "Question": "What do you look for most in a partner?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Humour",
+                    "Good looks",
+                    "Kindness",
+                    "Independence"
                 ]
             },
             {
-                "Question": "",
+                "Question": "You're sent to clean your room. Do you...?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Come up with a typically ingenious plan to get out of it",
+                    "Laugh. Ha ha!",
+                    "Do a decent job; it was pretty clean anyway",
+                    "Arrange everything symmetrically instead of actually tidying it"
                 ]
             },
             {
-                "Question": "",
+                "Question": "Tests are coming up. You're feeling...",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Cool as a cucumber. Do you ever feel anything else?",
+                    "Nervous. But not nervous enough to actually study",
+                    "Tests? Ha! Maybe I'll take a sick day",
+                    "A little bit nervous, but you've done the work"
                 ]
             },
             {
-                "Question": "",
+                "Question": "In 20 years, you see yourself...",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Ugh! Old! No thanks",
+                    "Managing a company",
+                    "With a Masters degree and a professional career",
+                    "Married to somebody nice"
                 ]
             },
             {
-                "Question": "",
+                "Question": "Life is...",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "A party",
+                    "Difficult sometimes, but always worth it",
+                    "About as boring as I am",
+                    "For having fun"
                 ]
             }
         ]
       },
       {
-        "title": "",
+        "title": "Friends",
         "characters": 
         [
-            "", "", "", "", "", "", "", "", "", ""
+            "Jack Geller", "Janice", "Rachel Green", "Chandler Bing", "Monica Geller", "Dr. Ross Geller", "Phoebe Buffay", "Gunther", "Joey Tribbiani", "Judy Geller"
         ],
         "quiz": 
         [
             {
-                "Question": "",
+                "Question": "Pick a season",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Winter",
+                    "Spring",
+                    "Summer",
+                    "Fall"
                 ]
             },
             {
-                "Question": "",
+                "Question": "How would your friends describe you?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Weird",
+                    "Sarcastic",
+                    "Nerdy",
+                    "Hungry"
                 ]
             },
             {
-                "Question": "",
+                "Question": "Whats the optimal number of times to get married?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "None",
+                    "Just once",
+                    "Minimum three times",
+                    "Who cares as long as the wedding has a buffet"
                 ]
             },
             {
-                "Question": "",
+                "Question": "Where would you go on a honeymoon?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Somewhere exotic and luxurious",
+                    "Somewhere isolated and romantic",
+                    "Somewhere adventurous, with outdoor activities both of you can enjoy",
+                    "Wherever my new mate wants to go"
                 ]
             },
             {
-                "Question": "",
+                "Question": "If you could live anywhere, where would you choose?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "London",
+                    "New York",
+                    "Paris",
+                    "Marrakech"
                 ]
             },
             {
-                "Question": "",
+                "Question": "Which sport are you best at?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Football",
+                    "Running",
+                    "Skateboarding",
+                    "Basketball"
                 ]
             },
             {
-                "Question": "",
+                "Question": "How close are you to your parents?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "I never knew them",
+                    "Pretty close",
+                    "They prefer my siblings",
+                    "I only get in touch when I need money"
                 ]
             },
             {
-                "Question": "",
+                "Question": "What years of your life do you consider to be your prime?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Childhood years",
+                    "High School years",
+                    "College years",
+                    "Adult years"
                 ]
             },
             {
-                "Question": "",
+                "Question": "Who do you currently live with?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Friends",
+                    "Significant other",
+                    "Mom and Dad",
+                    "Nobody"
                 ]
             },
             {
-                "Question": "",
+                "Question": "Which character would be your best friend?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Chandler",
+                    "Rachel",
+                    "Joey",
+                    "Monica"
                 ]
             }
         ]
       },
       {
-        "title": "",
+        "title": "Riverdale",
         "characters": 
         [
-            "", "", "", "", "", "", "", "", "", ""
+            "Toni Topaz", "Alice Cooper", "Cheryl Blossom", "Betty Cooper", "Jughead Jones", "Archie Andrews", "Kevin Keller", "Veronica Lodge", "Hiram Lodge", "FP Jones"
         ],
         "quiz": 
         [
             {
-                "Question": "",
+                "Question": "What job do you want?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "I'm quite funny; maybe I could be a comedian",
+                    "A musician or a footballer, I can't decide",
+                    "I want my own business",
+                    "I want to be a writer"
                 ]
             },
             {
-                "Question": "",
+                "Question": "What place in Riverdale would be your favorite one?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Pop's café",
+                    "The bed at home",
+                    "Mysterious lake",
+                    "The musical class"
                 ]
             },
             {
-                "Question": "",
+                "Question": "What colour is your hair?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Brown",
+                    "Blonde",
+                    "Black",
+                    "other"
                 ]
             },
             {
-                "Question": "",
+                "Question": "Do you keep lots of secrets?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Yes. And I'd rather not talk about it",
+                    "Yes but I'm not very good at keeping them",
+                    "Yes - big ones",
+                    "No and I hate secrets"
                 ]
             },
             {
-                "Question": "",
+                "Question": "What drink would you order at Pop's Chock'lit Shoppe?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "I can never decide between a chocolate or strawberry milkshake",
+                    "Either a tea or coke",
+                    "A vanilla milkshake",
+                    "A cherry phosphate"
                 ]
             },
             {
-                "Question": "",
+                "Question": "Pick a quote:",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "\"In case you haven't noticed, I'm weird\"",
+                    "\"I don't have any clothes\"",
+                    "\"The more handsome the outside, the more rotten the inside.\"",
+                    "\"Santa?\""
                 ]
             },
             {
-                "Question": "",
+                "Question": "What high school clique would you join?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "The popular crowd",
+                    "The good kids",
+                    "The rich kids",
+                    "The nerdy crowd, probably"
                 ]
             },
             {
-                "Question": "",
+                "Question": "What's your biggest personality flaw?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "I try to be perfect all the time",
+                    "I get lonely easily",
+                    "I can be easily led",
+                    "I can be cold, but it's a defensive mechanism"
                 ]
             },
             {
-                "Question": "",
+                "Question": "If someone hurt your friend, what would you do?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "I'd do anything to help my friend; whatever they wanted",
+                    "Lose my temper",
+                    "I'd support my friend, but I also like to forgive and forget.",
+                    "I'm always happy to fight for my friends"
                 ]
             },
             {
-                "Question": "",
+                "Question": "What's your favorite hairstyle?",
                 "Answers":
                 [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "A quiff",
+                    "Anything as long as I can wear a beanie",
+                    "A casual ponytail",
+                    "Long and wavy"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "Outer Banks",
+        "characters": 
+        [
+            "Deputy Shoupe", "Pope", "Topper", "Sarah Cameron", "Rafe", "John B", "Ward Cameron", "Kiara", "JJ", "Wheezie"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "You find $100,000 what will you do?",
+                "Answers":
+                [
+                    "Take it and save it for something important",
+                    "Take it. Save most of it. Spend a decent amount.",
+                    "Turn it in, I guess.",
+                    "Leave it. I don’t want someone coming after me!"
+                ]
+            },
+            {
+                "Question": "You are getting chased by the cops! Where do you go to hide?",
+                "Answers":
+                [
+                    "Someone’s house!",
+                    "Why am I getting chased?",
+                    "A car, or some where they wouldn’t expect me to be.",
+                    "idk!"
+                ]
+            },
+            {
+                "Question": "You fall in love with someone but your friends don’t get along with your lover, what do you do?",
+                "Answers":
+                [
+                    "Hide it from them as long as possible, I will probably tell them eventually.",
+                    "Tell them to get over it, they should be happy for me!",
+                    "Try to make them work it out.",
+                    "Drop them, my friends are everything to me!"
+                ]
+            },
+            {
+                "Question": "You have been running from cops and crack heads for WAY to long, what will you do?",
+                "Answers":
+                [
+                    "Turn myself in, running takes so much energy.",
+                    "Keep running.",
+                    "LEAVE!",
+                    "No idea."
+                ]
+            },
+            {
+                "Question": "Who’s hotter, John B or JJ?",
+                "Answers":
+                [
+                    "John B",
+                    "JJ",
+                    "Both",
+                    "Neither"
+                ]
+            },
+            {
+                "Question": "A family member goes missing, what will you do?",
+                "Answers":
+                [
+                    "Except the fact that I will never see them again.",
+                    "Cry and hope for the best.",
+                    "Look for them! Family is important!",
+                    "I don’t know."
+                ]
+            },
+            {
+                "Question": "where would you rather go to on vacation?",
+                "Answers":
+                [
+                    "somewhere that reminds you of home",
+                    "somewhere with a rich culture",
+                    "somewhere exciting",
+                    "somewhere relaxing"
+                ]
+            },
+            {
+                "Question": "someone asks you to keep a secret. what do you do?",
+                "Answers":
+                [
+                    "tell them that you can't be trusted with a secret",
+                    "guard it with my life",
+                    "tell my significant other or family member",
+                    "tell everyone about it "
+                ]
+            },
+            {
+                "Question": "have you ever done something illegal?",
+                "Answers":
+                [
+                    "yes, but I wanted to",
+                    "yes, but I never wanted to",
+                    "no, and I do want to",
+                    "no, and I never want to"
+                ]
+            },
+            {
+                "Question": "Who is your favorite character?",
+                "Answers":
+                [
+                    "John B",
+                    "Sarah",
+                    "Pope",
+                    "Kie"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "Squid Game",
+        "characters": 
+        [
+            "Front Man", "Player 001", "Player 199", "Player 456", "Player 101", "Player 067", "Player 212", "Player 218", "Hwang Jun-Ho", "Player 240"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "You won the game! what will you do first with your prize money?",
+                "Answers":
+                [
+                    "i’ll use it for my family.",
+                    "to pay off my debt, duh.",
+                    "we all know that i’d be the first one dead, i did not win",
+                    "none of your fucking business."
+                ]
+            },
+            {
+                "Question": "How would you describe yourself?",
+                "Answers":
+                [
+                    "selfish, smart",
+                    "polite, helping",
+                    "extroverted, loud",
+                    "revengeful, unforgiving"
+                ]
+            },
+            {
+                "Question": "What was your favorite game?",
+                "Answers":
+                [
+                    "red light, green light",
+                    "honeycomb",
+                    "tug of war",
+                    "squid game"
+                ]
+            },
+            {
+                "Question": "You’re a finalist and you are changing into a new uniform, what do you want it to be?",
+                "Answers":
+                [
+                    "something fancy",
+                    "something comfortable",
+                    "something casual",
+                    "anything, really!"
+                ]
+            },
+            {
+                "Question": "Someone says ‘no’ to you, how do you react?",
+                "Answers":
+                [
+                    "i sock ‘em right in the face!",
+                    "i’m disappointed, but i don’t try to go against them",
+                    "i don’t do anything",
+                    "yelling is my answer"
+                ]
+            },
+            {
+                "Question": "Choose a mitski song! (if you dont know any of these just pick it by the title)",
+                "Answers":
+                [
+                    "why didn’t you stop me?",
+                    "a burning hill",
+                    "a pearl",
+                    "first love/late spring"
+                ]
+            },
+            {
+                "Question": "what is your tactic for winning?",
+                "Answers":
+                [
+                    "manipulation",
+                    "my strength",
+                    "i just follow what everyone else is doing",
+                    "my smartness"
+                ]
+            },
+            {
+                "Question": "you go up against a friend, one of you has to die. what do you do?",
+                "Answers":
+                [
+                    "i sacrifice myself",
+                    "i don’t care, i’m here to win",
+                    "i apologize",
+                    "i try to find a way for both of us to win"
+                ]
+            },
+            {
+                "Question": "what is your favorite thing to do in your free time?",
+                "Answers":
+                [
+                    "draw/write stuff",
+                    "play games",
+                    "spend time with friends/family",
+                    "go outside"
+                ]
+            },
+            {
+                "Question": "you have the choice to go back to the games or not, what do you choose?",
+                "Answers":
+                [
+                    "i choose to go back",
+                    "i choose to not go back",
+                    "I will let my friend decide",
+                    "I don't Know"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "Euphoria",
+        "characters": 
+        [
+            "Gia Bennet", "Ethan Lewis", "Cassie Howard", "Maddy Perez", "Rue Bennett", "Nate Jacobs", "Jules Vaughn", "Fezco", "Lexi Howard", "Kat Hernandez"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "Did you have a bad past life?",
+                "Answers":
+                [
+                    "Yes. Not just bad, I would say, terrible.",
+                    "It was a bad life, but good moments were there too.",
+                    "Not that bad.",
+                    "It was good."
+                ]
+            },
+            {
+                "Question": "How old are you?",
+                "Answers":
+                [
+                    "I am young.",
+                    "I am passed my teenage a few years back.",
+                    "I am a middle-aged person.",
+                    "I am a bit old."
+                ]
+            },
+            {
+                "Question": "Which of these lines would suit your personality?",
+                "Answers":
+                [
+                    "Don't mess with me.",
+                    "If you think you know me, you are mistaken.",
+                    "I am the way I am; accept me or reject me.",
+                    "I am getting better day by day."
+                ]
+            },
+            {
+                "Question": "Do others think you are arrogant?",
+                "Answers":
+                [
+                    "Yes, and I don't care.",
+                    "I am not even a bit arrogant.",
+                    "I love the way I am, no matter what others think.",
+                    "I have stopped caring about others' judgment about me."
+                ]
+            },
+            {
+                "Question": "Do you easily get angry?",
+                "Answers":
+                [
+                    "Yes! Little things irritate me.",
+                    "I would slightly agree with that.",
+                    "Sometimes",
+                    "Nope"
+                ]
+            },
+            {
+                "Question": "Have you been the victim of various mental illnesses?",
+                "Answers":
+                [
+                    "Yes",
+                    "A few",
+                    "I had emotional ups and downs, but I don't think I suffered from mental illness",
+                    "No"
+                ]
+            },
+            {
+                "Question": "Are you addicted to bad habits?",
+                "Answers":
+                [
+                    "A lot",
+                    "To a few",
+                    "In the past, not now.",
+                    "No"
+                ]
+            },
+            {
+                "Question": "Are you oversized?",
+                "Answers":
+                [
+                    "Yes",
+                    "I am fit.",
+                    "I don't care about it.",
+                    "I am underweight."
+                ]
+            },
+            {
+                "Question": "Is your family supportive?",
+                "Answers":
+                [
+                    "Yes, my family is very supportive.",
+                    "Not much",
+                    "Not at all",
+                    "Who cares?"
+                ]
+            },
+            {
+                "Question": "What would you go to jail for?",
+                "Answers":
+                [
+                    "For theft",
+                    "For murder",
+                    "For something else",
+                    "I wouldn't go to jail for anything!"
                 ]
             }
         ]
