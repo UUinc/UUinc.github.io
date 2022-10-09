@@ -2,1107 +2,8 @@
     "tvShow":
     [
       {
-        "title": "The Walking Dead",
-        "characters": 
-        [
-            "Carl Grimes", "Carol Peletier", "Daryl Dixon", "Glenn Rhee", "Maggie Greene", "Michonne", "Morgan Jones", "Negan", "Rick Grimes", "Shane Walsh"
-        ],
-        "quiz": 
-        [
-            {
-                "Question": "How would your friends describe you (before the apocalypse)?",
-                "Answers":
-                [
-                    "Sweet",
-                    "Nurturing",
-                    "Kind",
-                    "Guarded"
-                ]
-            },
-            {
-                "Question": "Which friend are you in your friend group?",
-                "Answers":
-                [
-                    "Funny",
-                    "Responsible",
-                    "Wild",
-                    "Smart"
-                ]
-            },
-            {
-                "Question": "What’s your favorite food?",
-                "Answers":
-                [
-                    "Spaghetti",
-                    "Tajine",
-                    "Pizza",
-                    "Whiskey. Who needs food?"
-                ]
-            },
-            {
-                "Question": "Which weapon would you use to fight walkers?",
-                "Answers":
-                [
-                    "Stick",
-                    "Revolver",
-                    "Explosives",
-                    "Crossbow"
-                ]
-            },
-            {
-                "Question": "How do you think the outbreak started?",
-                "Answers":
-                [
-                    "It was a government experiment",
-                    "I think a virus mutated",
-                    "It was a biological attack",
-                    "I still think Rick is dreaming"
-                ]
-            },
-            {
-                "Question": "What’s the first thing you do when the zombies attack?",
-                "Answers":
-                [
-                    "Get out of town",
-                    "Hide",
-                    "Get your family",
-                    "Stock up on some weapons"
-                ]
-            },
-            {
-                "Question": "Who do you respect most as a leader?",
-                "Answers":
-                [
-                    "Rick Grimes",
-                    "King Ezekiel",
-                    "Maggie Greene",
-                    "Michonne"
-                ]
-            },
-            {
-                "Question": "Which villain are you most like?",
-                "Answers":
-                [
-                    "Shane Walsh",
-                    "The Governor",
-                    "Negan",
-                    "Alpha"
-                ]
-            },
-            {
-                "Question": "Do you trust other people?",
-                "Answers":
-                [
-                    "Only as far as I can throw them",
-                    "Everyone’s innocent 'til proven guilty",
-                    "I trust nobody",
-                    "I test them before I can trust them"
-                ]
-            },
-            {
-                "Question": "What's your favorite music genre?",
-                "Answers":
-                [
-                    "Hip-hop",
-                    "Rock 'n' roll",
-                    "Pop",
-                    "Jazz"
-                ]
-            }
-        ]
-      },
-      {
-        "title": "La Casa Del Papel",
-        "characters": 
-        [
-            "Raquel Murillo", "Berlín", "Denver", "El Profesor", "Tokio", "Río", "Nairobi", "Palermo", "Mónica Gaztambide", "Arturo Román"
-        ],
-        "quiz": 
-        [
-            {
-                "Question": "Which personality trait suits you best?",
-                "Answers":
-                [
-                    "Gentle",
-                    "Optimistic",
-                    "Thoughtful",
-                    "Sensitive"
-                ]
-            },
-            {
-                "Question": "There’s an issue between you and someone else, do you…",
-                "Answers":
-                [
-                    "Negotiate until you find a logical solution",
-                    "Finish it off with a joke",
-                    "Try to please the other person",
-                    "Start crying"
-                ]
-            },
-            {
-                "Question": "What annoys you the most?",
-                "Answers":
-                [
-                    "To be betrayed",
-                    "To be abused",
-                    "To be manipulated",
-                    "To not be respected"
-                ]
-            },
-            {
-                "Question": "If someone tells you they have feelings for you, how would you react?",
-                "Answers":
-                [
-                    "I get very shy and run away",
-                    "I'll thank them for their honesty and tell them I need time to think",
-                    "I love new experiences, so I’m definitely up for trying",
-                    "I’ll immediately think that they’re joking"
-                ]
-            },
-            {
-                "Question": "Which of these animals do you prefer?",
-                "Answers":
-                [
-                    "Cats",
-                    "Dogs",
-                    "Horses",
-                    "Birds"
-                ]
-            },
-            {
-                "Question": "If someone annoyed you so much, how would you react?",
-                "Answers":
-                [
-                    "I’d hurt them with my words",
-                    "I’d try to bother them",
-                    "I’d tie them to a chair",
-                    "I’d slap their face"
-                ]
-            },
-            {
-                "Question": "In a stressful situation, you are more of the type to:",
-                "Answers":
-                [
-                    "get upset and break stuff",
-                    "try to relativize and calm others",
-                    "panic completely",
-                    "stay calm and think about solutions "
-                ]
-            },
-            {
-                "Question": "When you're the one preparing a big party, you're more of the type to:",
-                "Answers":
-                [
-                    "completely forgetting that you had planned a big evening and having to deal with it hard",
-                    "invite everyone and anyone, suddenly you end up quickly overwhelmed",
-                    "don't worry too much, everyone bring something back",
-                    "organize everything down to the smallest detail: food, drinks, activities, music"
-                ]
-            },
-            {
-                "Question": "What would you do if a group of hostages was causing trouble during a heist?",
-                "Answers":
-                [
-                    "Threaten the group to shut them up",
-                    "Call the Professor for advice",
-                    "Shoot one of them in the leg so they know you mean business",
-                    "Separate them into different rooms so they can't plot together"
-                ]
-            },
-            {
-                "Question": "If you had to specialize in a crime, it would be:",
-                "Answers":
-                [
-                    "Computer hacking",
-                    "Drug traffic",
-                    "Jewelry theft",
-                    "The making of counterfeit money"
-                ]
-            }
-        ]
-      },
-      {
-        "title": "Game Of Thrones",
-        "characters": 
-        [
-            "Sansa Stark", "Jaime Lannister", "Arya Stark", "Cersei Lannister", "Jon Snow", "Daenerys Targaryen", "Tyrion Lannister", "Samwell Tarly", "Theon Greyjoy", "Bran Stark"
-        ],
-        "quiz": 
-        [
-            {
-                "Question": "Choose the word that best describes you",
-                "Answers":
-                [
-                    "Strong",
-                    "Funny",
-                    "Quiet",
-                    "Leader"
-                ]
-            },
-            {
-                "Question": "Which of these people do you find the most attractive?",
-                "Answers":
-                [
-                    "Jaime Lannister",
-                    "Daenerys Targaryen",
-                    "Cersei Lannister",
-                    "Jon Snow"
-                ]
-            },
-            {
-                "Question": "Pick a place",
-                "Answers":
-                [
-                    "King's Landing",
-                    "Winterfell",
-                    "Casterly Rock",
-                    "Braavos"
-                ]
-            },
-            {
-                "Question": "Choose your drink!",
-                "Answers":
-                [
-                    "Wine",
-                    "Coffee",
-                    "Beer",
-                    "Tea"
-                ]
-            },
-            {
-                "Question": "How would you try to defeat a White Walker?",
-                "Answers":
-                [
-                    "Dragonglass",
-                    "Sword",
-                    "Axe",
-                    "With my bare hands"
-                ]
-            },
-            {
-                "Question": "Someone killed your entire family. What do you do?",
-                "Answers":
-                [
-                    "Mourn and wear black",
-                    "I would avenge them, no matter what!",
-                    "As long as I live, no one can ever harm them!",
-                    "Nothing"
-                ]
-            },
-            {
-                "Question": "What do you see yourself doing the most in retirement?",
-                "Answers":
-                [
-                    "Travelling The World",
-                    "Fishing or Boating",
-                    "Writing A Book",
-                    "Meeting as many people as possible and making connections"
-                ]
-            },
-            {
-                "Question": "What superpower would you most like to have?",
-                "Answers":
-                [
-                    "Flight",
-                    "Invisibility",
-                    "Telekinesis",
-                    "Immortality"
-                ]
-            },
-            {
-                "Question": "You are attending a party. Choose which one of these describes how you would act",
-                "Answers":
-                [
-                    "Cracking everyone up with jokes",
-                    "Listening to stories and getting to know people better",
-                    "Flirting with as many people as possible",
-                    "I would be the shyest person in the room"
-                ]
-            },
-            {
-                "Question": "Who should sit on the Iron Throne?",
-                "Answers":
-                [
-                    "Cersei Lannister",
-                    "Daenerys Targaryen",
-                    "Jon Snow",
-                    "Tyrion Lannister"
-                ]
-            }
-        ]
-      },
-      {
-        "title": "Breaking Bad",
-        "characters": 
-        [
-            "Walter White, Jr.", "Skyler White", "Skinny Pete", "Jesse Pinkman", "Gus Fring", "Walter White", "Mike Ehrmantraut", "Hank Schrader", "Saul Goodman", "Marie Schrader"
-        ],
-        "quiz": 
-        [
-            {
-                "Question": "Could you do immoral things for your family?",
-                "Answers":
-                [
-                    "Yes",
-                    "No",
-                    "Depends, man",
-                    "It's against all my principles, but maybe"
-                ]
-            },
-            {
-                "Question": "Would the horror of your actions come back to haunt you?",
-                "Answers":
-                [
-                    "You got to do what you got to do",
-                    "If it gains me respect I pride myself on it",
-                    "I have too much empathy and guilt to be involved",
-                    "I sometimes can't handle it"
-                ]
-            },
-            {
-                "Question": "What do you do when you are upset?",
-                "Answers":
-                [
-                    "Get high and play video games",
-                    "Act like nothing is wrong",
-                    "Smoke",
-                    "Sit quietly and think about it"
-                ]
-            },
-            {
-                "Question": "How important is pride to you?",
-                "Answers":
-                [
-                    "It's everything I have",
-                    "I don't have that much of a sense of self",
-                    "Family is all that matters, I'm selfless",
-                    "Pride matters but in moderation"
-                ]
-            },
-            {
-                "Question": "How smart are you?",
-                "Answers":
-                [
-                    "I know what I need to know",
-                    "I'm a genius",
-                    "People underestimate my intelligence",
-                    "I'm well rounded"
-                ]
-            },
-            {
-                "Question": "How well do you handle stress?",
-                "Answers":
-                [
-                    "I thrive off of it",
-                    "I break down if I'm not in control",
-                    "As long as someone else is the decision-maker, I'm fine",
-                    "I'm driven by my work"
-                ]
-            },
-            {
-                "Question": "How do you learn?",
-                "Answers":
-                [
-                    "From books and dedication",
-                    "Through hands-on practice",
-                    "Through repetition",
-                    "I can self-teach almost anything"
-                ]
-            },
-            {
-                "Question": "How would you deal with the sickness of a family member?",
-                "Answers":
-                [
-                    "Denial",
-                    "Try to find a helpful solution to offer",
-                    "Empathize",
-                    "Try not to display too much emotion because you are so masculine"
-                ]
-            },
-            {
-                "Question": "How do you feel about risk?",
-                "Answers":
-                [
-                    "It makes me feel alive",
-                    "It's all part of the game",
-                    "I can't handle it",
-                    "It's part of my duty"
-                ]
-            },
-            {
-                "Question": "What would push you into the drug business?",
-                "Answers":
-                [
-                    "Individual ambition",
-                    "Money",
-                    "Family",
-                    "Nothing could"
-                ]
-            }
-        ]
-      },
-      {
-        "title": "Prison Break",
-        "characters": 
-        [
-            "Gretchen Morgan", "Lincoln Burrows ", "Alexander Mahone", "Sara Tancredi", "T-Bag", "C-Note", "Michael Scofield", "Paul Kellerman", "Fernando Sucre", "Brad Bellick"
-        ],
-        "quiz": 
-        [
-            {
-                "Question": "What is your strength?",
-                "Answers":
-                [
-                    "Dedication",
-                    "Discipline",
-                    "Creativity",
-                    "Trustworthiness"
-                ]
-            },
-            {
-                "Question": "What is your biggest fear?",
-                "Answers":
-                [
-                    "Being alone without family or friends",
-                    "Not being successful financially",
-                    "My greatest fear is to have no more fear",
-                    "Not believing in myself"
-                ]
-            },
-            {
-                "Question": "What really makes you angry?",
-                "Answers":
-                [
-                    "Liars and Lies",
-                    "Abusive Parents",
-                    "Screaming Children",
-                    "Bad Manners"
-                ]
-            },
-            {
-                "Question": "What makes you laugh the most?",
-                "Answers":
-                [
-                    "Sarcastic jokes",
-                    "Watching a stand-up comedian on TV",
-                    "Reading a comic book",
-                    "Seeing someone making fun of someone else"
-                ]
-            },
-            {
-                "Question": "If you could choose to do anything for a day, what would it be?",
-                "Answers":
-                [
-                    "Working",
-                    "Playing games",
-                    "Traveling",
-                    "Doing sports"
-                ]
-            },
-            {
-                "Question": "Would you rather?",
-                "Answers":
-                [
-                    "Ride a bike",
-                    "Ride a horse",
-                    "Drive a car",
-                    "Walk"
-                ]
-            },
-            {
-                "Question": "Do you like or dislike surprises?",
-                "Answers":
-                [
-                    "I like surprises",
-                    "I hate surprises",
-                    "Only if they are from close people",
-                    "Only from strangers"
-                ]
-            },
-            {
-                "Question": "What do you do in the evenings?",
-                "Answers":
-                [
-                    "Visit friends",
-                    "Play games",
-                    "Watch movies",
-                    "Read book"
-                ]
-            },
-            {
-                "Question": "How many days would you live on a deserted island?",
-                "Answers":
-                [
-                    "I would die the first day",
-                    "I would last several months",
-                    "I would live several years",
-                    "I would live all my life"
-                ]
-            },
-            {
-                "Question": "Weapon of Choice?",
-                "Answers":
-                [
-                    "Intelligence",
-                    "Gun",
-                    "Fists",
-                    "Knife"
-                ]
-            }
-        ]
-      },
-      {
-        "title": "Vikings",
-        "characters": 
-        [
-            "Judith", "Torvi", "Lagertha", "Athelstan", "Ragnar Lothbrok", "Floki", "Ivar", "Björn Ironside", "Rollo", "King Ecbert"
-        ],
-        "quiz": 
-        [
-            {
-                "Question": "Which Norse god/goddess would you consider your patron?",
-                "Answers":
-                [
-                    "Odin, the god of war and wisdom",
-                    "Freyja, goddess of love and battle",
-                    "Loki, the god of mischief",
-                    "Thor, the god of thunder and health"
-                ]
-            },
-            {
-                "Question": "What role would you play in Viking society?",
-                "Answers":
-                [
-                    "Warrior",
-                    "Shieldmaiden",
-                    "Ruler",
-                    "Builder"
-                ]
-            },
-            {
-                "Question": "Your village is being attacked by raiders. How do you react?",
-                "Answers":
-                [
-                    "Wait for the battle to end and raid their village",
-                    "Make a sacrifice to the gods",
-                    "Find the traitor who gave up the location of your home",
-                    "Organize the tribe for a fight"
-                ]
-            },
-            {
-                "Question": "What's your relationship with violence?",
-                "Answers":
-                [
-                    "The more the better!",
-                    "It's a means to an end",
-                    "It can be used when necessary",
-                    "It should be avoided"
-                ]
-            },
-            {
-                "Question": "It's time for battle! What do you take to the battlefield?",
-                "Answers":
-                [
-                    "Just a big two-handed axe",
-                    "A sword and a shield",
-                    "A small hatchet and a long knife",
-                    "Armor; axe, sword, or spear; sometimes a shield"
-                ]
-            },
-            {
-                "Question": "Which of these would be your fatal flaw?",
-                "Answers":
-                [
-                    "I can be too proud",
-                    "My ambition sometimes blinds me",
-                    "I can be too impulsive and agressive",
-                    "I am unsure of too many things"
-                ]
-            },
-            {
-                "Question": "Which among these is most important to you?",
-                "Answers":
-                [
-                    "Knowledge",
-                    "Inner peace",
-                    "Faith",
-                    "Glory"
-                ]
-            },
-            {
-                "Question": "What gets you through life?",
-                "Answers":
-                [
-                    "My adaptability",
-                    "My intelligence",
-                    "My determination",
-                    "My thirst for glory"
-                ]
-            },
-            {
-                "Question": "What is your end goal?",
-                "Answers":
-                [
-                    "To understand the things I don't",
-                    "Safety and security for the ones I love",
-                    "Continued devotion to my faith",
-                    "To be remembered as a great person"
-                ]
-            },
-            {
-                "Question": "Your friends would consider you",
-                "Answers":
-                [
-                    "The leader who always thinks ahead",
-                    "The caring and protective one",
-                    "The strong one",
-                    "The walking encyclopedia"
-                ]
-            }
-        ]
-      },
-      {
-        "title": "Dark",
-        "characters": 
-        [
-            "Bartosz Tiedemann", "Ulrich Nielsen", "Katharina Nielsen", "Jonas Kahnwald", "Magnus Nielson", "Martha Nielsen", "Charlotte Doppler", "Mikkel Nielsen", "Hannah Kahnwald", "Peter Doppler"
-        ],
-        "quiz": 
-        [
-            {
-                "Question": "What do you want the most?",
-                "Answers":
-                [
-                    "Power",
-                    "Love",
-                    "Fame",
-                    "Family"
-                ]
-            },
-            {
-                "Question": "What will you do on a holiday?",
-                "Answers":
-                [
-                    "Read",
-                    "Go out with friends",
-                    "Watch a movie",
-                    "Spend day with bae"
-                ]
-            },
-            {
-                "Question": "What is a Perfect Day?",
-                "Answers":
-                [
-                    "Listening to music",
-                    "Reading a book",
-                    "Going to concert",
-                    "Crushing your enemies"
-                ]
-            },
-            {
-                "Question": "Choose a chess piece:",
-                "Answers":
-                [
-                    "Queen",
-                    "Pawn",
-                    "Rook",
-                    "Knight"
-                ]
-            },
-            {
-                "Question": "Which word describes you best?",
-                "Answers":
-                [
-                    "Ambitious",
-                    "Clever",
-                    "Manipulative",
-                    "Loyal"
-                ]
-            },
-            {
-                "Question": "How do you feel about your career?",
-                "Answers":
-                [
-                    "I think I'm on the right track",
-                    "I have a job that I'm not happy with",
-                    "What am I doing with my life?",
-                    "There's room for growth, but I'm in the right career"
-                ]
-            },
-            {
-                "Question": "What’s the first thing you do in the morning?",
-                "Answers":
-                [
-                    "Take a shower",
-                    "Meditate",
-                    "Make the bed",
-                    "Check your phone"
-                ]
-            },
-            {
-                "Question": "How do you feel about kids?",
-                "Answers":
-                [
-                    "I want kids one day, but my life isn't ready for them yet",
-                    "I have kids",
-                    "I don't think I ever want kids",
-                    "I want kids soon or already have them"
-                ]
-            },
-            {
-                "Question": "Which of the following businesses would you be interested in managing?",
-                "Answers":
-                [
-                    "Art Gallery",
-                    "Hotel",
-                    "Nightclub",
-                    "Restaurant"
-                ]
-            },
-            {
-                "Question": "Which of the following cities would you consider residing in for at least a year?",
-                "Answers":
-                [
-                    "Bangkok",
-                    "Vancouver",
-                    "Tokyo",
-                    "Sydney"
-                ]
-            }
-        ]
-      },
-      {
-        "title": "Skins",
-        "characters": 
-        [
-            "James Cook", "Cassie", "Effy", "Tony", "Mini McGuinness", "Michelle", "Sid", "Chris", "Alo Creevey", "Naomi Campbell"
-        ],
-        "quiz": 
-        [
-            {
-                "Question": "School is...",
-                "Answers":
-                [
-                    "An interesting social experiment",
-                    "Depressing",
-                    "Oh, school. Yeah. Haven't been there in a while",
-                    "Only for smart people"
-                ]
-            },
-            {
-                "Question": "I think of food as...",
-                "Answers":
-                [
-                    "Something you eat to keep going. Simple",
-                    "I don't know... yummy?",
-                    "Chips and burgers",
-                    "Genius. Breakfast is my heroin"
-                ]
-            },
-            {
-                "Question": "Pick a drink",
-                "Answers":
-                [
-                    "Wine",
-                    "Beer",
-                    "Water",
-                    "Vodka"
-                ]
-            },
-            {
-                "Question": "What do you like to do in your free time?",
-                "Answers":
-                [
-                    "Get high",
-                    "Get drunk",
-                    "Listen to music",
-                    "Absolutely nothing"
-                ]
-            },
-            {
-                "Question": "What's your favourite thing about yourself?",
-                "Answers":
-                [
-                    "Eyes",
-                    "My body",
-                    "Smile",
-                    "Style"
-                ]
-            },
-            {
-                "Question": "What do you look for most in a partner?",
-                "Answers":
-                [
-                    "Humour",
-                    "Good looks",
-                    "Kindness",
-                    "Independence"
-                ]
-            },
-            {
-                "Question": "You're sent to clean your room. Do you...?",
-                "Answers":
-                [
-                    "Come up with a typically ingenious plan to get out of it",
-                    "Laugh. Ha ha!",
-                    "Do a decent job; it was pretty clean anyway",
-                    "Arrange everything symmetrically instead of actually tidying it"
-                ]
-            },
-            {
-                "Question": "Tests are coming up. You're feeling...",
-                "Answers":
-                [
-                    "Cool as a cucumber. Do you ever feel anything else?",
-                    "Nervous. But not nervous enough to actually study",
-                    "Tests? Ha! Maybe I'll take a sick day",
-                    "A little bit nervous, but you've done the work"
-                ]
-            },
-            {
-                "Question": "In 20 years, you see yourself...",
-                "Answers":
-                [
-                    "Ugh! Old! No thanks",
-                    "Managing a company",
-                    "With a Masters degree and a professional career",
-                    "Married to somebody nice"
-                ]
-            },
-            {
-                "Question": "Life is...",
-                "Answers":
-                [
-                    "A party",
-                    "Difficult sometimes, but always worth it",
-                    "About as boring as I am",
-                    "For having fun"
-                ]
-            }
-        ]
-      },
-      {
-        "title": "Friends",
-        "characters": 
-        [
-            "Jack Geller", "Janice", "Rachel Green", "Chandler Bing", "Monica Geller", "Dr. Ross Geller", "Phoebe Buffay", "Gunther", "Joey Tribbiani", "Judy Geller"
-        ],
-        "quiz": 
-        [
-            {
-                "Question": "Pick a season",
-                "Answers":
-                [
-                    "Winter",
-                    "Spring",
-                    "Summer",
-                    "Fall"
-                ]
-            },
-            {
-                "Question": "How would your friends describe you?",
-                "Answers":
-                [
-                    "Weird",
-                    "Sarcastic",
-                    "Nerdy",
-                    "Hungry"
-                ]
-            },
-            {
-                "Question": "Whats the optimal number of times to get married?",
-                "Answers":
-                [
-                    "None",
-                    "Just once",
-                    "Minimum three times",
-                    "Who cares as long as the wedding has a buffet"
-                ]
-            },
-            {
-                "Question": "Where would you go on a honeymoon?",
-                "Answers":
-                [
-                    "Somewhere exotic and luxurious",
-                    "Somewhere isolated and romantic",
-                    "Somewhere adventurous, with outdoor activities both of you can enjoy",
-                    "Wherever my new mate wants to go"
-                ]
-            },
-            {
-                "Question": "If you could live anywhere, where would you choose?",
-                "Answers":
-                [
-                    "London",
-                    "New York",
-                    "Paris",
-                    "Marrakech"
-                ]
-            },
-            {
-                "Question": "Which sport are you best at?",
-                "Answers":
-                [
-                    "Football",
-                    "Running",
-                    "Skateboarding",
-                    "Basketball"
-                ]
-            },
-            {
-                "Question": "How close are you to your parents?",
-                "Answers":
-                [
-                    "I never knew them",
-                    "Pretty close",
-                    "They prefer my siblings",
-                    "I only get in touch when I need money"
-                ]
-            },
-            {
-                "Question": "What years of your life do you consider to be your prime?",
-                "Answers":
-                [
-                    "Childhood years",
-                    "High School years",
-                    "College years",
-                    "Adult years"
-                ]
-            },
-            {
-                "Question": "Who do you currently live with?",
-                "Answers":
-                [
-                    "Friends",
-                    "Significant other",
-                    "Mom and Dad",
-                    "Nobody"
-                ]
-            },
-            {
-                "Question": "Which character would be your best friend?",
-                "Answers":
-                [
-                    "Chandler",
-                    "Rachel",
-                    "Joey",
-                    "Monica"
-                ]
-            }
-        ]
-      },
-      {
-        "title": "Riverdale",
-        "characters": 
-        [
-            "Toni Topaz", "Alice Cooper", "Cheryl Blossom", "Betty Cooper", "Jughead Jones", "Archie Andrews", "Kevin Keller", "Veronica Lodge", "Hiram Lodge", "FP Jones"
-        ],
-        "quiz": 
-        [
-            {
-                "Question": "What job do you want?",
-                "Answers":
-                [
-                    "I'm quite funny; maybe I could be a comedian",
-                    "A musician or a footballer, I can't decide",
-                    "I want my own business",
-                    "I want to be a writer"
-                ]
-            },
-            {
-                "Question": "What place in Riverdale would be your favorite one?",
-                "Answers":
-                [
-                    "Pop's café",
-                    "The bed at home",
-                    "Mysterious lake",
-                    "The musical class"
-                ]
-            },
-            {
-                "Question": "What colour is your hair?",
-                "Answers":
-                [
-                    "Brown",
-                    "Blonde",
-                    "Black",
-                    "other"
-                ]
-            },
-            {
-                "Question": "Do you keep lots of secrets?",
-                "Answers":
-                [
-                    "Yes. And I'd rather not talk about it",
-                    "Yes but I'm not very good at keeping them",
-                    "Yes - big ones",
-                    "No and I hate secrets"
-                ]
-            },
-            {
-                "Question": "What drink would you order at Pop's Chock'lit Shoppe?",
-                "Answers":
-                [
-                    "I can never decide between a chocolate or strawberry milkshake",
-                    "Either a tea or coke",
-                    "A vanilla milkshake",
-                    "A cherry phosphate"
-                ]
-            },
-            {
-                "Question": "Pick a quote:",
-                "Answers":
-                [
-                    "\"In case you haven't noticed, I'm weird\"",
-                    "\"I don't have any clothes\"",
-                    "\"The more handsome the outside, the more rotten the inside.\"",
-                    "\"Santa?\""
-                ]
-            },
-            {
-                "Question": "What high school clique would you join?",
-                "Answers":
-                [
-                    "The popular crowd",
-                    "The good kids",
-                    "The rich kids",
-                    "The nerdy crowd, probably"
-                ]
-            },
-            {
-                "Question": "What's your biggest personality flaw?",
-                "Answers":
-                [
-                    "I try to be perfect all the time",
-                    "I get lonely easily",
-                    "I can be easily led",
-                    "I can be cold, but it's a defensive mechanism"
-                ]
-            },
-            {
-                "Question": "If someone hurt your friend, what would you do?",
-                "Answers":
-                [
-                    "I'd do anything to help my friend; whatever they wanted",
-                    "Lose my temper",
-                    "I'd support my friend, but I also like to forgive and forget.",
-                    "I'm always happy to fight for my friends"
-                ]
-            },
-            {
-                "Question": "What's your favorite hairstyle?",
-                "Answers":
-                [
-                    "A quiff",
-                    "Anything as long as I can wear a beanie",
-                    "A casual ponytail",
-                    "Long and wavy"
-                ]
-            }
-        ]
-      },
-      {
         "title": "Outer Banks",
+        "new": "true",
         "characters": 
         [
             "Deputy Shoupe", "Pope", "Topper", "Sarah Cameron", "Rafe", "John B", "Ward Cameron", "Kiara", "JJ", "Wheezie"
@@ -1213,6 +114,7 @@
       },
       {
         "title": "Squid Game",
+        "new": "true",
         "characters": 
         [
             "Front Man", "Player 001", "Player 199", "Player 456", "Player 101", "Player 067", "Player 212", "Player 218", "Hwang Jun-Ho", "Player 240"
@@ -1323,6 +225,7 @@
       },
       {
         "title": "Euphoria",
+        "new": "true",
         "characters": 
         [
             "Gia Bennet", "Ethan Lewis", "Cassie Howard", "Maddy Perez", "Rue Bennett", "Nate Jacobs", "Jules Vaughn", "Fezco", "Lexi Howard", "Kat Hernandez"
@@ -1430,6 +333,1227 @@
                 ]
             }
         ]
-      }
+      },
+      {
+        "title": "The Walking Dead",
+        "new": "false",
+        "characters": 
+        [
+            "Carl Grimes", "Carol Peletier", "Daryl Dixon", "Glenn Rhee", "Maggie Greene", "Michonne", "Morgan Jones", "Negan", "Rick Grimes", "Shane Walsh"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "How would your friends describe you (before the apocalypse)?",
+                "Answers":
+                [
+                    "Sweet",
+                    "Nurturing",
+                    "Kind",
+                    "Guarded"
+                ]
+            },
+            {
+                "Question": "Which friend are you in your friend group?",
+                "Answers":
+                [
+                    "Funny",
+                    "Responsible",
+                    "Wild",
+                    "Smart"
+                ]
+            },
+            {
+                "Question": "What’s your favorite food?",
+                "Answers":
+                [
+                    "Spaghetti",
+                    "Tajine",
+                    "Pizza",
+                    "Whiskey. Who needs food?"
+                ]
+            },
+            {
+                "Question": "Which weapon would you use to fight walkers?",
+                "Answers":
+                [
+                    "Stick",
+                    "Revolver",
+                    "Explosives",
+                    "Crossbow"
+                ]
+            },
+            {
+                "Question": "How do you think the outbreak started?",
+                "Answers":
+                [
+                    "It was a government experiment",
+                    "I think a virus mutated",
+                    "It was a biological attack",
+                    "I still think Rick is dreaming"
+                ]
+            },
+            {
+                "Question": "What’s the first thing you do when the zombies attack?",
+                "Answers":
+                [
+                    "Get out of town",
+                    "Hide",
+                    "Get your family",
+                    "Stock up on some weapons"
+                ]
+            },
+            {
+                "Question": "Who do you respect most as a leader?",
+                "Answers":
+                [
+                    "Rick Grimes",
+                    "King Ezekiel",
+                    "Maggie Greene",
+                    "Michonne"
+                ]
+            },
+            {
+                "Question": "Which villain are you most like?",
+                "Answers":
+                [
+                    "Shane Walsh",
+                    "The Governor",
+                    "Negan",
+                    "Alpha"
+                ]
+            },
+            {
+                "Question": "Do you trust other people?",
+                "Answers":
+                [
+                    "Only as far as I can throw them",
+                    "Everyone’s innocent 'til proven guilty",
+                    "I trust nobody",
+                    "I test them before I can trust them"
+                ]
+            },
+            {
+                "Question": "What's your favorite music genre?",
+                "Answers":
+                [
+                    "Hip-hop",
+                    "Rock 'n' roll",
+                    "Pop",
+                    "Jazz"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "La Casa Del Papel",
+        "new": "false",
+        "characters": 
+        [
+            "Raquel Murillo", "Berlín", "Denver", "El Profesor", "Tokio", "Río", "Nairobi", "Palermo", "Mónica Gaztambide", "Arturo Román"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "Which personality trait suits you best?",
+                "Answers":
+                [
+                    "Gentle",
+                    "Optimistic",
+                    "Thoughtful",
+                    "Sensitive"
+                ]
+            },
+            {
+                "Question": "There’s an issue between you and someone else, do you…",
+                "Answers":
+                [
+                    "Negotiate until you find a logical solution",
+                    "Finish it off with a joke",
+                    "Try to please the other person",
+                    "Start crying"
+                ]
+            },
+            {
+                "Question": "What annoys you the most?",
+                "Answers":
+                [
+                    "To be betrayed",
+                    "To be abused",
+                    "To be manipulated",
+                    "To not be respected"
+                ]
+            },
+            {
+                "Question": "If someone tells you they have feelings for you, how would you react?",
+                "Answers":
+                [
+                    "I get very shy and run away",
+                    "I'll thank them for their honesty and tell them I need time to think",
+                    "I love new experiences, so I’m definitely up for trying",
+                    "I’ll immediately think that they’re joking"
+                ]
+            },
+            {
+                "Question": "Which of these animals do you prefer?",
+                "Answers":
+                [
+                    "Cats",
+                    "Dogs",
+                    "Horses",
+                    "Birds"
+                ]
+            },
+            {
+                "Question": "If someone annoyed you so much, how would you react?",
+                "Answers":
+                [
+                    "I’d hurt them with my words",
+                    "I’d try to bother them",
+                    "I’d tie them to a chair",
+                    "I’d slap their face"
+                ]
+            },
+            {
+                "Question": "In a stressful situation, you are more of the type to:",
+                "Answers":
+                [
+                    "get upset and break stuff",
+                    "try to relativize and calm others",
+                    "panic completely",
+                    "stay calm and think about solutions "
+                ]
+            },
+            {
+                "Question": "When you're the one preparing a big party, you're more of the type to:",
+                "Answers":
+                [
+                    "completely forgetting that you had planned a big evening and having to deal with it hard",
+                    "invite everyone and anyone, suddenly you end up quickly overwhelmed",
+                    "don't worry too much, everyone bring something back",
+                    "organize everything down to the smallest detail: food, drinks, activities, music"
+                ]
+            },
+            {
+                "Question": "What would you do if a group of hostages was causing trouble during a heist?",
+                "Answers":
+                [
+                    "Threaten the group to shut them up",
+                    "Call the Professor for advice",
+                    "Shoot one of them in the leg so they know you mean business",
+                    "Separate them into different rooms so they can't plot together"
+                ]
+            },
+            {
+                "Question": "If you had to specialize in a crime, it would be:",
+                "Answers":
+                [
+                    "Computer hacking",
+                    "Drug traffic",
+                    "Jewelry theft",
+                    "The making of counterfeit money"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "Game Of Thrones",
+        "new": "false",
+        "characters": 
+        [
+            "Sansa Stark", "Jaime Lannister", "Arya Stark", "Cersei Lannister", "Jon Snow", "Daenerys Targaryen", "Tyrion Lannister", "Samwell Tarly", "Theon Greyjoy", "Bran Stark"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "Choose the word that best describes you",
+                "Answers":
+                [
+                    "Strong",
+                    "Funny",
+                    "Quiet",
+                    "Leader"
+                ]
+            },
+            {
+                "Question": "Which of these people do you find the most attractive?",
+                "Answers":
+                [
+                    "Jaime Lannister",
+                    "Daenerys Targaryen",
+                    "Cersei Lannister",
+                    "Jon Snow"
+                ]
+            },
+            {
+                "Question": "Pick a place",
+                "Answers":
+                [
+                    "King's Landing",
+                    "Winterfell",
+                    "Casterly Rock",
+                    "Braavos"
+                ]
+            },
+            {
+                "Question": "Choose your drink!",
+                "Answers":
+                [
+                    "Wine",
+                    "Coffee",
+                    "Beer",
+                    "Tea"
+                ]
+            },
+            {
+                "Question": "How would you try to defeat a White Walker?",
+                "Answers":
+                [
+                    "Dragonglass",
+                    "Sword",
+                    "Axe",
+                    "With my bare hands"
+                ]
+            },
+            {
+                "Question": "Someone killed your entire family. What do you do?",
+                "Answers":
+                [
+                    "Mourn and wear black",
+                    "I would avenge them, no matter what!",
+                    "As long as I live, no one can ever harm them!",
+                    "Nothing"
+                ]
+            },
+            {
+                "Question": "What do you see yourself doing the most in retirement?",
+                "Answers":
+                [
+                    "Travelling The World",
+                    "Fishing or Boating",
+                    "Writing A Book",
+                    "Meeting as many people as possible and making connections"
+                ]
+            },
+            {
+                "Question": "What superpower would you most like to have?",
+                "Answers":
+                [
+                    "Flight",
+                    "Invisibility",
+                    "Telekinesis",
+                    "Immortality"
+                ]
+            },
+            {
+                "Question": "You are attending a party. Choose which one of these describes how you would act",
+                "Answers":
+                [
+                    "Cracking everyone up with jokes",
+                    "Listening to stories and getting to know people better",
+                    "Flirting with as many people as possible",
+                    "I would be the shyest person in the room"
+                ]
+            },
+            {
+                "Question": "Who should sit on the Iron Throne?",
+                "Answers":
+                [
+                    "Cersei Lannister",
+                    "Daenerys Targaryen",
+                    "Jon Snow",
+                    "Tyrion Lannister"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "Breaking Bad",
+        "new": "false",
+        "characters": 
+        [
+            "Walter White, Jr.", "Skyler White", "Skinny Pete", "Jesse Pinkman", "Gus Fring", "Walter White", "Mike Ehrmantraut", "Hank Schrader", "Saul Goodman", "Marie Schrader"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "Could you do immoral things for your family?",
+                "Answers":
+                [
+                    "Yes",
+                    "No",
+                    "Depends, man",
+                    "It's against all my principles, but maybe"
+                ]
+            },
+            {
+                "Question": "Would the horror of your actions come back to haunt you?",
+                "Answers":
+                [
+                    "You got to do what you got to do",
+                    "If it gains me respect I pride myself on it",
+                    "I have too much empathy and guilt to be involved",
+                    "I sometimes can't handle it"
+                ]
+            },
+            {
+                "Question": "What do you do when you are upset?",
+                "Answers":
+                [
+                    "Get high and play video games",
+                    "Act like nothing is wrong",
+                    "Smoke",
+                    "Sit quietly and think about it"
+                ]
+            },
+            {
+                "Question": "How important is pride to you?",
+                "Answers":
+                [
+                    "It's everything I have",
+                    "I don't have that much of a sense of self",
+                    "Family is all that matters, I'm selfless",
+                    "Pride matters but in moderation"
+                ]
+            },
+            {
+                "Question": "How smart are you?",
+                "Answers":
+                [
+                    "I know what I need to know",
+                    "I'm a genius",
+                    "People underestimate my intelligence",
+                    "I'm well rounded"
+                ]
+            },
+            {
+                "Question": "How well do you handle stress?",
+                "Answers":
+                [
+                    "I thrive off of it",
+                    "I break down if I'm not in control",
+                    "As long as someone else is the decision-maker, I'm fine",
+                    "I'm driven by my work"
+                ]
+            },
+            {
+                "Question": "How do you learn?",
+                "Answers":
+                [
+                    "From books and dedication",
+                    "Through hands-on practice",
+                    "Through repetition",
+                    "I can self-teach almost anything"
+                ]
+            },
+            {
+                "Question": "How would you deal with the sickness of a family member?",
+                "Answers":
+                [
+                    "Denial",
+                    "Try to find a helpful solution to offer",
+                    "Empathize",
+                    "Try not to display too much emotion because you are so masculine"
+                ]
+            },
+            {
+                "Question": "How do you feel about risk?",
+                "Answers":
+                [
+                    "It makes me feel alive",
+                    "It's all part of the game",
+                    "I can't handle it",
+                    "It's part of my duty"
+                ]
+            },
+            {
+                "Question": "What would push you into the drug business?",
+                "Answers":
+                [
+                    "Individual ambition",
+                    "Money",
+                    "Family",
+                    "Nothing could"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "Prison Break",
+        "new": "false",
+        "characters": 
+        [
+            "Gretchen Morgan", "Lincoln Burrows ", "Alexander Mahone", "Sara Tancredi", "T-Bag", "C-Note", "Michael Scofield", "Paul Kellerman", "Fernando Sucre", "Brad Bellick"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "What is your strength?",
+                "Answers":
+                [
+                    "Dedication",
+                    "Discipline",
+                    "Creativity",
+                    "Trustworthiness"
+                ]
+            },
+            {
+                "Question": "What is your biggest fear?",
+                "Answers":
+                [
+                    "Being alone without family or friends",
+                    "Not being successful financially",
+                    "My greatest fear is to have no more fear",
+                    "Not believing in myself"
+                ]
+            },
+            {
+                "Question": "What really makes you angry?",
+                "Answers":
+                [
+                    "Liars and Lies",
+                    "Abusive Parents",
+                    "Screaming Children",
+                    "Bad Manners"
+                ]
+            },
+            {
+                "Question": "What makes you laugh the most?",
+                "Answers":
+                [
+                    "Sarcastic jokes",
+                    "Watching a stand-up comedian on TV",
+                    "Reading a comic book",
+                    "Seeing someone making fun of someone else"
+                ]
+            },
+            {
+                "Question": "If you could choose to do anything for a day, what would it be?",
+                "Answers":
+                [
+                    "Working",
+                    "Playing games",
+                    "Traveling",
+                    "Doing sports"
+                ]
+            },
+            {
+                "Question": "Would you rather?",
+                "Answers":
+                [
+                    "Ride a bike",
+                    "Ride a horse",
+                    "Drive a car",
+                    "Walk"
+                ]
+            },
+            {
+                "Question": "Do you like or dislike surprises?",
+                "Answers":
+                [
+                    "I like surprises",
+                    "I hate surprises",
+                    "Only if they are from close people",
+                    "Only from strangers"
+                ]
+            },
+            {
+                "Question": "What do you do in the evenings?",
+                "Answers":
+                [
+                    "Visit friends",
+                    "Play games",
+                    "Watch movies",
+                    "Read book"
+                ]
+            },
+            {
+                "Question": "How many days would you live on a deserted island?",
+                "Answers":
+                [
+                    "I would die the first day",
+                    "I would last several months",
+                    "I would live several years",
+                    "I would live all my life"
+                ]
+            },
+            {
+                "Question": "Weapon of Choice?",
+                "Answers":
+                [
+                    "Intelligence",
+                    "Gun",
+                    "Fists",
+                    "Knife"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "Vikings",
+        "new": "false",
+        "characters": 
+        [
+            "Judith", "Torvi", "Lagertha", "Athelstan", "Ragnar Lothbrok", "Floki", "Ivar", "Björn Ironside", "Rollo", "King Ecbert"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "Which Norse god/goddess would you consider your patron?",
+                "Answers":
+                [
+                    "Odin, the god of war and wisdom",
+                    "Freyja, goddess of love and battle",
+                    "Loki, the god of mischief",
+                    "Thor, the god of thunder and health"
+                ]
+            },
+            {
+                "Question": "What role would you play in Viking society?",
+                "Answers":
+                [
+                    "Warrior",
+                    "Shieldmaiden",
+                    "Ruler",
+                    "Builder"
+                ]
+            },
+            {
+                "Question": "Your village is being attacked by raiders. How do you react?",
+                "Answers":
+                [
+                    "Wait for the battle to end and raid their village",
+                    "Make a sacrifice to the gods",
+                    "Find the traitor who gave up the location of your home",
+                    "Organize the tribe for a fight"
+                ]
+            },
+            {
+                "Question": "What's your relationship with violence?",
+                "Answers":
+                [
+                    "The more the better!",
+                    "It's a means to an end",
+                    "It can be used when necessary",
+                    "It should be avoided"
+                ]
+            },
+            {
+                "Question": "It's time for battle! What do you take to the battlefield?",
+                "Answers":
+                [
+                    "Just a big two-handed axe",
+                    "A sword and a shield",
+                    "A small hatchet and a long knife",
+                    "Armor; axe, sword, or spear; sometimes a shield"
+                ]
+            },
+            {
+                "Question": "Which of these would be your fatal flaw?",
+                "Answers":
+                [
+                    "I can be too proud",
+                    "My ambition sometimes blinds me",
+                    "I can be too impulsive and agressive",
+                    "I am unsure of too many things"
+                ]
+            },
+            {
+                "Question": "Which among these is most important to you?",
+                "Answers":
+                [
+                    "Knowledge",
+                    "Inner peace",
+                    "Faith",
+                    "Glory"
+                ]
+            },
+            {
+                "Question": "What gets you through life?",
+                "Answers":
+                [
+                    "My adaptability",
+                    "My intelligence",
+                    "My determination",
+                    "My thirst for glory"
+                ]
+            },
+            {
+                "Question": "What is your end goal?",
+                "Answers":
+                [
+                    "To understand the things I don't",
+                    "Safety and security for the ones I love",
+                    "Continued devotion to my faith",
+                    "To be remembered as a great person"
+                ]
+            },
+            {
+                "Question": "Your friends would consider you",
+                "Answers":
+                [
+                    "The leader who always thinks ahead",
+                    "The caring and protective one",
+                    "The strong one",
+                    "The walking encyclopedia"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "Dark",
+        "new": "false",
+        "characters": 
+        [
+            "Bartosz Tiedemann", "Ulrich Nielsen", "Katharina Nielsen", "Jonas Kahnwald", "Magnus Nielson", "Martha Nielsen", "Charlotte Doppler", "Mikkel Nielsen", "Hannah Kahnwald", "Peter Doppler"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "What do you want the most?",
+                "Answers":
+                [
+                    "Power",
+                    "Love",
+                    "Fame",
+                    "Family"
+                ]
+            },
+            {
+                "Question": "What will you do on a holiday?",
+                "Answers":
+                [
+                    "Read",
+                    "Go out with friends",
+                    "Watch a movie",
+                    "Spend day with bae"
+                ]
+            },
+            {
+                "Question": "What is a Perfect Day?",
+                "Answers":
+                [
+                    "Listening to music",
+                    "Reading a book",
+                    "Going to concert",
+                    "Crushing your enemies"
+                ]
+            },
+            {
+                "Question": "Choose a chess piece:",
+                "Answers":
+                [
+                    "Queen",
+                    "Pawn",
+                    "Rook",
+                    "Knight"
+                ]
+            },
+            {
+                "Question": "Which word describes you best?",
+                "Answers":
+                [
+                    "Ambitious",
+                    "Clever",
+                    "Manipulative",
+                    "Loyal"
+                ]
+            },
+            {
+                "Question": "How do you feel about your career?",
+                "Answers":
+                [
+                    "I think I'm on the right track",
+                    "I have a job that I'm not happy with",
+                    "What am I doing with my life?",
+                    "There's room for growth, but I'm in the right career"
+                ]
+            },
+            {
+                "Question": "What’s the first thing you do in the morning?",
+                "Answers":
+                [
+                    "Take a shower",
+                    "Meditate",
+                    "Make the bed",
+                    "Check your phone"
+                ]
+            },
+            {
+                "Question": "How do you feel about kids?",
+                "Answers":
+                [
+                    "I want kids one day, but my life isn't ready for them yet",
+                    "I have kids",
+                    "I don't think I ever want kids",
+                    "I want kids soon or already have them"
+                ]
+            },
+            {
+                "Question": "Which of the following businesses would you be interested in managing?",
+                "Answers":
+                [
+                    "Art Gallery",
+                    "Hotel",
+                    "Nightclub",
+                    "Restaurant"
+                ]
+            },
+            {
+                "Question": "Which of the following cities would you consider residing in for at least a year?",
+                "Answers":
+                [
+                    "Bangkok",
+                    "Vancouver",
+                    "Tokyo",
+                    "Sydney"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "Skins",
+        "new": "false",
+        "characters": 
+        [
+            "James Cook", "Cassie", "Effy", "Tony", "Mini McGuinness", "Michelle", "Sid", "Chris", "Alo Creevey", "Naomi Campbell"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "School is...",
+                "Answers":
+                [
+                    "An interesting social experiment",
+                    "Depressing",
+                    "Oh, school. Yeah. Haven't been there in a while",
+                    "Only for smart people"
+                ]
+            },
+            {
+                "Question": "I think of food as...",
+                "Answers":
+                [
+                    "Something you eat to keep going. Simple",
+                    "I don't know... yummy?",
+                    "Chips and burgers",
+                    "Genius. Breakfast is my heroin"
+                ]
+            },
+            {
+                "Question": "Pick a drink",
+                "Answers":
+                [
+                    "Wine",
+                    "Beer",
+                    "Water",
+                    "Vodka"
+                ]
+            },
+            {
+                "Question": "What do you like to do in your free time?",
+                "Answers":
+                [
+                    "Get high",
+                    "Get drunk",
+                    "Listen to music",
+                    "Absolutely nothing"
+                ]
+            },
+            {
+                "Question": "What's your favourite thing about yourself?",
+                "Answers":
+                [
+                    "Eyes",
+                    "My body",
+                    "Smile",
+                    "Style"
+                ]
+            },
+            {
+                "Question": "What do you look for most in a partner?",
+                "Answers":
+                [
+                    "Humour",
+                    "Good looks",
+                    "Kindness",
+                    "Independence"
+                ]
+            },
+            {
+                "Question": "You're sent to clean your room. Do you...?",
+                "Answers":
+                [
+                    "Come up with a typically ingenious plan to get out of it",
+                    "Laugh. Ha ha!",
+                    "Do a decent job; it was pretty clean anyway",
+                    "Arrange everything symmetrically instead of actually tidying it"
+                ]
+            },
+            {
+                "Question": "Tests are coming up. You're feeling...",
+                "Answers":
+                [
+                    "Cool as a cucumber. Do you ever feel anything else?",
+                    "Nervous. But not nervous enough to actually study",
+                    "Tests? Ha! Maybe I'll take a sick day",
+                    "A little bit nervous, but you've done the work"
+                ]
+            },
+            {
+                "Question": "In 20 years, you see yourself...",
+                "Answers":
+                [
+                    "Ugh! Old! No thanks",
+                    "Managing a company",
+                    "With a Masters degree and a professional career",
+                    "Married to somebody nice"
+                ]
+            },
+            {
+                "Question": "Life is...",
+                "Answers":
+                [
+                    "A party",
+                    "Difficult sometimes, but always worth it",
+                    "About as boring as I am",
+                    "For having fun"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "Friends",
+        "new": "false",
+        "characters": 
+        [
+            "Jack Geller", "Janice", "Rachel Green", "Chandler Bing", "Monica Geller", "Dr. Ross Geller", "Phoebe Buffay", "Gunther", "Joey Tribbiani", "Judy Geller"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "Pick a season",
+                "Answers":
+                [
+                    "Winter",
+                    "Spring",
+                    "Summer",
+                    "Fall"
+                ]
+            },
+            {
+                "Question": "How would your friends describe you?",
+                "Answers":
+                [
+                    "Weird",
+                    "Sarcastic",
+                    "Nerdy",
+                    "Hungry"
+                ]
+            },
+            {
+                "Question": "Whats the optimal number of times to get married?",
+                "Answers":
+                [
+                    "None",
+                    "Just once",
+                    "Minimum three times",
+                    "Who cares as long as the wedding has a buffet"
+                ]
+            },
+            {
+                "Question": "Where would you go on a honeymoon?",
+                "Answers":
+                [
+                    "Somewhere exotic and luxurious",
+                    "Somewhere isolated and romantic",
+                    "Somewhere adventurous, with outdoor activities both of you can enjoy",
+                    "Wherever my new mate wants to go"
+                ]
+            },
+            {
+                "Question": "If you could live anywhere, where would you choose?",
+                "Answers":
+                [
+                    "London",
+                    "New York",
+                    "Paris",
+                    "Marrakech"
+                ]
+            },
+            {
+                "Question": "Which sport are you best at?",
+                "Answers":
+                [
+                    "Football",
+                    "Running",
+                    "Skateboarding",
+                    "Basketball"
+                ]
+            },
+            {
+                "Question": "How close are you to your parents?",
+                "Answers":
+                [
+                    "I never knew them",
+                    "Pretty close",
+                    "They prefer my siblings",
+                    "I only get in touch when I need money"
+                ]
+            },
+            {
+                "Question": "What years of your life do you consider to be your prime?",
+                "Answers":
+                [
+                    "Childhood years",
+                    "High School years",
+                    "College years",
+                    "Adult years"
+                ]
+            },
+            {
+                "Question": "Who do you currently live with?",
+                "Answers":
+                [
+                    "Friends",
+                    "Significant other",
+                    "Mom and Dad",
+                    "Nobody"
+                ]
+            },
+            {
+                "Question": "Which character would be your best friend?",
+                "Answers":
+                [
+                    "Chandler",
+                    "Rachel",
+                    "Joey",
+                    "Monica"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "Riverdale",
+        "new": "False",
+        "characters": 
+        [
+            "Toni Topaz", "Alice Cooper", "Cheryl Blossom", "Betty Cooper", "Jughead Jones", "Archie Andrews", "Kevin Keller", "Veronica Lodge", "Hiram Lodge", "FP Jones"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "What job do you want?",
+                "Answers":
+                [
+                    "I'm quite funny; maybe I could be a comedian",
+                    "A musician or a footballer, I can't decide",
+                    "I want my own business",
+                    "I want to be a writer"
+                ]
+            },
+            {
+                "Question": "What place in Riverdale would be your favorite one?",
+                "Answers":
+                [
+                    "Pop's café",
+                    "The bed at home",
+                    "Mysterious lake",
+                    "The musical class"
+                ]
+            },
+            {
+                "Question": "What colour is your hair?",
+                "Answers":
+                [
+                    "Brown",
+                    "Blonde",
+                    "Black",
+                    "other"
+                ]
+            },
+            {
+                "Question": "Do you keep lots of secrets?",
+                "Answers":
+                [
+                    "Yes. And I'd rather not talk about it",
+                    "Yes but I'm not very good at keeping them",
+                    "Yes - big ones",
+                    "No and I hate secrets"
+                ]
+            },
+            {
+                "Question": "What drink would you order at Pop's Chock'lit Shoppe?",
+                "Answers":
+                [
+                    "I can never decide between a chocolate or strawberry milkshake",
+                    "Either a tea or coke",
+                    "A vanilla milkshake",
+                    "A cherry phosphate"
+                ]
+            },
+            {
+                "Question": "Pick a quote:",
+                "Answers":
+                [
+                    "\"In case you haven't noticed, I'm weird\"",
+                    "\"I don't have any clothes\"",
+                    "\"The more handsome the outside, the more rotten the inside.\"",
+                    "\"Santa?\""
+                ]
+            },
+            {
+                "Question": "What high school clique would you join?",
+                "Answers":
+                [
+                    "The popular crowd",
+                    "The good kids",
+                    "The rich kids",
+                    "The nerdy crowd, probably"
+                ]
+            },
+            {
+                "Question": "What's your biggest personality flaw?",
+                "Answers":
+                [
+                    "I try to be perfect all the time",
+                    "I get lonely easily",
+                    "I can be easily led",
+                    "I can be cold, but it's a defensive mechanism"
+                ]
+            },
+            {
+                "Question": "If someone hurt your friend, what would you do?",
+                "Answers":
+                [
+                    "I'd do anything to help my friend; whatever they wanted",
+                    "Lose my temper",
+                    "I'd support my friend, but I also like to forgive and forget.",
+                    "I'm always happy to fight for my friends"
+                ]
+            },
+            {
+                "Question": "What's your favorite hairstyle?",
+                "Answers":
+                [
+                    "A quiff",
+                    "Anything as long as I can wear a beanie",
+                    "A casual ponytail",
+                    "Long and wavy"
+                ]
+            }
+        ]
+      },
+      {
+        "title": "Test 99",
+        "new": "True",
+        "characters": 
+        [
+            "1", "2", "3", "4", "5", "6", "7", "8", "9", "0"
+        ],
+        "quiz": 
+        [
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "Question": "",
+                "Answers":
+                [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ]
+        }
     ]
 }
