@@ -1,6 +1,228 @@
 {
     "tvShow":
     [
+        {
+            "title": "Euphoria",
+            "new": "true",
+            "characters": 
+            [
+                "Gia Bennet", "Ethan Lewis", "Cassie Howard", "Maddy Perez", "Rue Bennett", "Nate Jacobs", "Jules Vaughn", "Fezco", "Lexi Howard", "Kat Hernandez"
+            ],
+            "quiz": 
+            [
+                {
+                    "Question": "Did you have a bad past life?",
+                    "Answers":
+                    [
+                        "Yes. Not just bad, I would say, terrible.",
+                        "It was a bad life, but good moments were there too.",
+                        "Not that bad.",
+                        "It was good."
+                    ]
+                },
+                {
+                    "Question": "How old are you?",
+                    "Answers":
+                    [
+                        "I am young.",
+                        "I am passed my teenage a few years back.",
+                        "I am a middle-aged person.",
+                        "I am a bit old."
+                    ]
+                },
+                {
+                    "Question": "Which of these lines would suit your personality?",
+                    "Answers":
+                    [
+                        "Don't mess with me.",
+                        "If you think you know me, you are mistaken.",
+                        "I am the way I am; accept me or reject me.",
+                        "I am getting better day by day."
+                    ]
+                },
+                {
+                    "Question": "Do others think you are arrogant?",
+                    "Answers":
+                    [
+                        "Yes, and I don't care.",
+                        "I am not even a bit arrogant.",
+                        "I love the way I am, no matter what others think.",
+                        "I have stopped caring about others' judgment about me."
+                    ]
+                },
+                {
+                    "Question": "Do you easily get angry?",
+                    "Answers":
+                    [
+                        "Yes! Little things irritate me.",
+                        "I would slightly agree with that.",
+                        "Sometimes",
+                        "Nope"
+                    ]
+                },
+                {
+                    "Question": "Have you been the victim of various mental illnesses?",
+                    "Answers":
+                    [
+                        "Yes",
+                        "A few",
+                        "I had emotional ups and downs, but I don't think I suffered from mental illness",
+                        "No"
+                    ]
+                },
+                {
+                    "Question": "Are you addicted to bad habits?",
+                    "Answers":
+                    [
+                        "A lot",
+                        "To a few",
+                        "In the past, not now.",
+                        "No"
+                    ]
+                },
+                {
+                    "Question": "Are you oversized?",
+                    "Answers":
+                    [
+                        "Yes",
+                        "I am fit.",
+                        "I don't care about it.",
+                        "I am underweight."
+                    ]
+                },
+                {
+                    "Question": "Is your family supportive?",
+                    "Answers":
+                    [
+                        "Yes, my family is very supportive.",
+                        "Not much",
+                        "Not at all",
+                        "Who cares?"
+                    ]
+                },
+                {
+                    "Question": "What would you go to jail for?",
+                    "Answers":
+                    [
+                        "For theft",
+                        "For murder",
+                        "For something else",
+                        "I wouldn't go to jail for anything!"
+                    ]
+                }
+            ]
+          },
+          {
+            "title": "Squid Game",
+            "new": "true",
+            "characters": 
+            [
+                "Front Man", "Player 001", "Player 199", "Player 456", "Player 101", "Player 067", "Player 212", "Player 218", "Hwang Jun-Ho", "Player 240"
+            ],
+            "quiz": 
+            [
+            {
+                "Question": "You won the game! what will you do first with your prize money?",
+                "Answers":
+                [
+                    "i’ll use it for my family.",
+                    "to pay off my debt, duh.",
+                    "we all know that i’d be the first one dead, i did not win",
+                    "none of your fucking business."
+                ]
+            },
+            {
+                "Question": "How would you describe yourself?",
+                "Answers":
+                [
+                    "selfish, smart",
+                    "polite, helping",
+                    "extroverted, loud",
+                    "revengeful, unforgiving"
+                ]
+            },
+            {
+                "Question": "What was your favorite game?",
+                "Answers":
+                [
+                    "red light, green light",
+                    "honeycomb",
+                    "tug of war",
+                    "squid game"
+                ]
+            },
+            {
+                "Question": "You’re a finalist and you are changing into a new uniform, what do you want it to be?",
+                "Answers":
+                [
+                    "something fancy",
+                    "something comfortable",
+                    "something casual",
+                    "anything, really!"
+                ]
+            },
+            {
+                "Question": "Someone says ‘no’ to you, how do you react?",
+                "Answers":
+                [
+                    "i sock ‘em right in the face!",
+                    "i’m disappointed, but i don’t try to go against them",
+                    "i don’t do anything",
+                    "yelling is my answer"
+                ]
+            },
+            {
+                "Question": "Choose a mitski song! (if you dont know any of these just pick it by the title)",
+                "Answers":
+                [
+                    "why didn’t you stop me?",
+                    "a burning hill",
+                    "a pearl",
+                    "first love/late spring"
+                ]
+            },
+            {
+                "Question": "what is your tactic for winning?",
+                "Answers":
+                [
+                    "manipulation",
+                    "my strength",
+                    "i just follow what everyone else is doing",
+                    "my smartness"
+                ]
+            },
+            {
+                "Question": "you go up against a friend, one of you has to die. what do you do?",
+                "Answers":
+                [
+                    "i sacrifice myself",
+                    "i don’t care, i’m here to win",
+                    "i apologize",
+                    "i try to find a way for both of us to win"
+                ]
+            },
+            {
+                "Question": "what is your favorite thing to do in your free time?",
+                "Answers":
+                [
+                    "draw/write stuff",
+                    "play games",
+                    "spend time with friends/family",
+                    "go outside"
+                ]
+            },
+            {
+                "Question": "you have the choice to go back to the games or not, what do you choose?",
+                "Answers":
+                [
+                    "i choose to go back",
+                    "i choose to not go back",
+                    "I will let my friend decide",
+                    "I don't Know"
+                ]
+            }
+        ]
+      },
       {
         "title": "Outer Banks",
         "new": "true",
@@ -108,228 +330,6 @@
                     "Sarah",
                     "Pope",
                     "Kie"
-                ]
-            }
-        ]
-      },
-      {
-        "title": "Squid Game",
-        "new": "true",
-        "characters": 
-        [
-            "Front Man", "Player 001", "Player 199", "Player 456", "Player 101", "Player 067", "Player 212", "Player 218", "Hwang Jun-Ho", "Player 240"
-        ],
-        "quiz": 
-        [
-            {
-                "Question": "You won the game! what will you do first with your prize money?",
-                "Answers":
-                [
-                    "i’ll use it for my family.",
-                    "to pay off my debt, duh.",
-                    "we all know that i’d be the first one dead, i did not win",
-                    "none of your fucking business."
-                ]
-            },
-            {
-                "Question": "How would you describe yourself?",
-                "Answers":
-                [
-                    "selfish, smart",
-                    "polite, helping",
-                    "extroverted, loud",
-                    "revengeful, unforgiving"
-                ]
-            },
-            {
-                "Question": "What was your favorite game?",
-                "Answers":
-                [
-                    "red light, green light",
-                    "honeycomb",
-                    "tug of war",
-                    "squid game"
-                ]
-            },
-            {
-                "Question": "You’re a finalist and you are changing into a new uniform, what do you want it to be?",
-                "Answers":
-                [
-                    "something fancy",
-                    "something comfortable",
-                    "something casual",
-                    "anything, really!"
-                ]
-            },
-            {
-                "Question": "Someone says ‘no’ to you, how do you react?",
-                "Answers":
-                [
-                    "i sock ‘em right in the face!",
-                    "i’m disappointed, but i don’t try to go against them",
-                    "i don’t do anything",
-                    "yelling is my answer"
-                ]
-            },
-            {
-                "Question": "Choose a mitski song! (if you dont know any of these just pick it by the title)",
-                "Answers":
-                [
-                    "why didn’t you stop me?",
-                    "a burning hill",
-                    "a pearl",
-                    "first love/late spring"
-                ]
-            },
-            {
-                "Question": "what is your tactic for winning?",
-                "Answers":
-                [
-                    "manipulation",
-                    "my strength",
-                    "i just follow what everyone else is doing",
-                    "my smartness"
-                ]
-            },
-            {
-                "Question": "you go up against a friend, one of you has to die. what do you do?",
-                "Answers":
-                [
-                    "i sacrifice myself",
-                    "i don’t care, i’m here to win",
-                    "i apologize",
-                    "i try to find a way for both of us to win"
-                ]
-            },
-            {
-                "Question": "what is your favorite thing to do in your free time?",
-                "Answers":
-                [
-                    "draw/write stuff",
-                    "play games",
-                    "spend time with friends/family",
-                    "go outside"
-                ]
-            },
-            {
-                "Question": "you have the choice to go back to the games or not, what do you choose?",
-                "Answers":
-                [
-                    "i choose to go back",
-                    "i choose to not go back",
-                    "I will let my friend decide",
-                    "I don't Know"
-                ]
-            }
-        ]
-      },
-      {
-        "title": "Euphoria",
-        "new": "true",
-        "characters": 
-        [
-            "Gia Bennet", "Ethan Lewis", "Cassie Howard", "Maddy Perez", "Rue Bennett", "Nate Jacobs", "Jules Vaughn", "Fezco", "Lexi Howard", "Kat Hernandez"
-        ],
-        "quiz": 
-        [
-            {
-                "Question": "Did you have a bad past life?",
-                "Answers":
-                [
-                    "Yes. Not just bad, I would say, terrible.",
-                    "It was a bad life, but good moments were there too.",
-                    "Not that bad.",
-                    "It was good."
-                ]
-            },
-            {
-                "Question": "How old are you?",
-                "Answers":
-                [
-                    "I am young.",
-                    "I am passed my teenage a few years back.",
-                    "I am a middle-aged person.",
-                    "I am a bit old."
-                ]
-            },
-            {
-                "Question": "Which of these lines would suit your personality?",
-                "Answers":
-                [
-                    "Don't mess with me.",
-                    "If you think you know me, you are mistaken.",
-                    "I am the way I am; accept me or reject me.",
-                    "I am getting better day by day."
-                ]
-            },
-            {
-                "Question": "Do others think you are arrogant?",
-                "Answers":
-                [
-                    "Yes, and I don't care.",
-                    "I am not even a bit arrogant.",
-                    "I love the way I am, no matter what others think.",
-                    "I have stopped caring about others' judgment about me."
-                ]
-            },
-            {
-                "Question": "Do you easily get angry?",
-                "Answers":
-                [
-                    "Yes! Little things irritate me.",
-                    "I would slightly agree with that.",
-                    "Sometimes",
-                    "Nope"
-                ]
-            },
-            {
-                "Question": "Have you been the victim of various mental illnesses?",
-                "Answers":
-                [
-                    "Yes",
-                    "A few",
-                    "I had emotional ups and downs, but I don't think I suffered from mental illness",
-                    "No"
-                ]
-            },
-            {
-                "Question": "Are you addicted to bad habits?",
-                "Answers":
-                [
-                    "A lot",
-                    "To a few",
-                    "In the past, not now.",
-                    "No"
-                ]
-            },
-            {
-                "Question": "Are you oversized?",
-                "Answers":
-                [
-                    "Yes",
-                    "I am fit.",
-                    "I don't care about it.",
-                    "I am underweight."
-                ]
-            },
-            {
-                "Question": "Is your family supportive?",
-                "Answers":
-                [
-                    "Yes, my family is very supportive.",
-                    "Not much",
-                    "Not at all",
-                    "Who cares?"
-                ]
-            },
-            {
-                "Question": "What would you go to jail for?",
-                "Answers":
-                [
-                    "For theft",
-                    "For murder",
-                    "For something else",
-                    "I wouldn't go to jail for anything!"
                 ]
             }
         ]
