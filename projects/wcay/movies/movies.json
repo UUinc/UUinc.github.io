@@ -2,112 +2,112 @@
     "movie":
     [
         {
-            "title": "The Walking Dead",
+            "title": "Avengers",
             "new": "true",
             "characters": 
             [
-                "Gia Bennet", "Ethan Lewis", "Cassie Howard", "Maddy Perez", "Rue Bennett", "Nate Jacobs", "Jules Vaughn", "Fezco", "Lexi Howard", "Kat Hernandez"
+                "", "", "", "", "", "", "", "", "", ""
             ],
             "quiz": 
             [
                 {
-                    "Question": "Did you have a bad past life?",
+                    "Question": "",
                     "Answers":
                     [
-                        "Yes. Not just bad, I would say, terrible.",
-                        "It was a bad life, but good moments were there too.",
-                        "Not that bad.",
-                        "It was good."
+                        "",
+                        "",
+                        "",
+                        ""
                     ]
                 },
                 {
-                    "Question": "How old are you?",
+                    "Question": "",
                     "Answers":
                     [
-                        "I am young.",
-                        "I am passed my teenage a few years back.",
-                        "I am a middle-aged person.",
-                        "I am a bit old."
+                        "",
+                        "",
+                        "",
+                        ""
                     ]
                 },
                 {
-                    "Question": "Which of these lines would suit your personality?",
+                    "Question": "",
                     "Answers":
                     [
-                        "Don't mess with me.",
-                        "If you think you know me, you are mistaken.",
-                        "I am the way I am; accept me or reject me.",
-                        "I am getting better day by day."
+                        "",
+                        "",
+                        "",
+                        ""
                     ]
                 },
                 {
-                    "Question": "Do others think you are arrogant?",
+                    "Question": "",
                     "Answers":
                     [
-                        "Yes, and I don't care.",
-                        "I am not even a bit arrogant.",
-                        "I love the way I am, no matter what others think.",
-                        "I have stopped caring about others' judgment about me."
+                        "",
+                        "",
+                        "",
+                        ""
                     ]
                 },
                 {
-                    "Question": "Do you easily get angry?",
+                    "Question": "",
                     "Answers":
                     [
-                        "Yes! Little things irritate me.",
-                        "I would slightly agree with that.",
-                        "Sometimes",
-                        "Nope"
+                        "",
+                        "",
+                        "",
+                        ""
                     ]
                 },
                 {
-                    "Question": "Have you been the victim of various mental illnesses?",
+                    "Question": "",
                     "Answers":
                     [
-                        "Yes",
-                        "A few",
-                        "I had emotional ups and downs, but I don't think I suffered from mental illness",
-                        "No"
+                        "",
+                        "",
+                        "",
+                        ""
                     ]
                 },
                 {
-                    "Question": "Are you addicted to bad habits?",
+                    "Question": "",
                     "Answers":
                     [
-                        "A lot",
-                        "To a few",
-                        "In the past, not now.",
-                        "No"
+                        "",
+                        "",
+                        "",
+                        ""
                     ]
                 },
                 {
-                    "Question": "Are you oversized?",
+                    "Question": "",
                     "Answers":
                     [
-                        "Yes",
-                        "I am fit.",
-                        "I don't care about it.",
-                        "I am underweight."
+                        "",
+                        "",
+                        "",
+                        ""
                     ]
                 },
                 {
-                    "Question": "Is your family supportive?",
+                    "Question": "",
                     "Answers":
                     [
-                        "Yes, my family is very supportive.",
-                        "Not much",
-                        "Not at all",
-                        "Who cares?"
+                        "",
+                        "",
+                        "",
+                        ""
                     ]
                 },
                 {
-                    "Question": "What would you go to jail for?",
+                    "Question": "",
                     "Answers":
                     [
-                        "For theft",
-                        "For murder",
-                        "For something else",
-                        "I wouldn't go to jail for anything!"
+                        "",
+                        "",
+                        "",
+                        ""
                     ]
                 }
             ]

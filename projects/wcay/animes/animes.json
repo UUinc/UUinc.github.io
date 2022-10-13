@@ -2,112 +2,112 @@
     "anime":
     [
         {
-            "title": "Game Of Thrones",
+            "title": "Naruto",
             "new": "true",
             "characters": 
             [
-                "Gia Bennet", "Ethan Lewis", "Cassie Howard", "Maddy Perez", "Rue Bennett", "Nate Jacobs", "Jules Vaughn", "Fezco", "Lexi Howard", "Kat Hernandez"
+                "Tenten", "Neji Hyuga", "Hinata Hyuga", "Kakashi Hatake", "Naruto Uzumaki", "Gaara", "Sasuke Uchiha", "Sakura Haruno", "Kiba Inuzuka", "Rock Lee", "Shikamaru Nara", "Choji Akimichi", "Ino Yamanaka", "Shino Aburame", "Might Guy"
             ],
             "quiz": 
             [
                 {
-                    "Question": "Did you have a bad past life?",
+                    "Question": "What is your way to achieve your goals?",
                     "Answers":
                     [
-                        "Yes. Not just bad, I would say, terrible.",
-                        "It was a bad life, but good moments were there too.",
-                        "Not that bad.",
-                        "It was good."
+                        "Well, I do not want to tell you",
+                        "I'm determined to my goals without being lazy",
+                        "I ignore my feelings in achieving my goals",
+                        "Whatever I can, I can even trample on my friends"
                     ]
                 },
                 {
-                    "Question": "How old are you?",
+                    "Question": "You are going to fight your enemies. What is your fighting style?",
                     "Answers":
                     [
-                        "I am young.",
-                        "I am passed my teenage a few years back.",
-                        "I am a middle-aged person.",
-                        "I am a bit old."
+                        "Unpredictable and bold",
+                        "Calm and effective",
+                        "Powerful and careful",
+                        "Simple and effectiveness"
                     ]
                 },
                 {
-                    "Question": "Which of these lines would suit your personality?",
+                    "Question": "What kind of people anger you the most?",
                     "Answers":
                     [
-                        "Don't mess with me.",
-                        "If you think you know me, you are mistaken.",
-                        "I am the way I am; accept me or reject me.",
-                        "I am getting better day by day."
+                        "Stupid people",
+                        "People without compassion",
+                        "Negative people",
+                        "Everyone"
                     ]
                 },
                 {
-                    "Question": "Do others think you are arrogant?",
+                    "Question": "What is your favorite food?",
                     "Answers":
                     [
-                        "Yes, and I don't care.",
-                        "I am not even a bit arrogant.",
-                        "I love the way I am, no matter what others think.",
-                        "I have stopped caring about others' judgment about me."
+                        "Healthy food",
+                        "Anything spicy",
+                        "Ramen noodles",
+                        "Fast food"
                     ]
                 },
                 {
-                    "Question": "Do you easily get angry?",
+                    "Question": "Who is your favorite animal?",
                     "Answers":
                     [
-                        "Yes! Little things irritate me.",
-                        "I would slightly agree with that.",
-                        "Sometimes",
-                        "Nope"
+                        "Dogs",
+                        "Cats",
+                        "I don't like animals",
+                        "Insects"
                     ]
                 },
                 {
-                    "Question": "Have you been the victim of various mental illnesses?",
+                    "Question": "You need to take a break from your ninja missions. Where do you go to unwind?",
                     "Answers":
                     [
-                        "Yes",
-                        "A few",
-                        "I had emotional ups and downs, but I don't think I suffered from mental illness",
-                        "No"
+                        "A hot spring or spa",
+                        "A botanic garden",
+                        "In  your study at home",
+                        "A desert plateau"
                     ]
                 },
                 {
-                    "Question": "Are you addicted to bad habits?",
+                    "Question": "You're attacked by a group of ninjas during a mission. One of your squad members is down. What do you do?",
                     "Answers":
                     [
-                        "A lot",
-                        "To a few",
-                        "In the past, not now.",
-                        "No"
+                        "You're leaving the fallen squad member",
+                        "You're probably the one who's down",
+                        "You're protecting the fallen squad member",
+                        "You're fighting to defeat the ninjas."
                     ]
                 },
                 {
-                    "Question": "Are you oversized?",
+                    "Question": "You've just been assigned to your new squad. What is the one thing you can bring to the table?",
                     "Answers":
                     [
-                        "Yes",
-                        "I am fit.",
-                        "I don't care about it.",
-                        "I am underweight."
+                        "Your speed",
+                        "Your stamina and determination",
+                        "Your quick analytical mind",
+                        "Your power."
                     ]
                 },
                 {
-                    "Question": "Is your family supportive?",
+                    "Question": "Your crush walks into the room. How do you act?",
                     "Answers":
                     [
-                        "Yes, my family is very supportive.",
-                        "Not much",
-                        "Not at all",
-                        "Who cares?"
+                        "You get shy and awkward",
+                        "You're already with them in your mind. They just don't know they like you yet",
+                        "You act pretty cool",
+                        "You act shocked"
                     ]
                 },
                 {
-                    "Question": "What would you go to jail for?",
+                    "Question": "You’re bored with overwork. What is your favorite enjoyment?",
                     "Answers":
                     [
-                        "For theft",
-                        "For murder",
-                        "For something else",
-                        "I wouldn't go to jail for anything!"
+                        "Going to traditional cafes",
+                        "Reading",
+                        "Training and taking walks",
+                        "Making trouble"
                     ]
                 }
             ]
