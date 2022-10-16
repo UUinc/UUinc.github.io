@@ -2,112 +2,112 @@
     "movie":
     [
         {
-            "title": "Avengers",
+            "title": "Avatar",
             "new": "true",
             "characters": 
             [
-                "", "", "", "", "", "", "", "", "", ""
+                "Eytukan", "Mo'at", "Trudy Chacón", "Colonel Miles Quaritch", "Jake Sully", "Neytiri", "Dr. Grace Augustine", "Parker Selfridge", "Norm Spellman", "Tsu'tey"
             ],
             "quiz": 
             [
                 {
-                    "Question": "",
+                    "Question": "What are you?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Transitioning",
+                        "Na'vi",
+                        "Human",
+                        "I don't know"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Which word best describe you?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Brave",
+                        "Loyal",
+                        "Charismatic",
+                        "Smart"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "What is most important to you?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "My significant other",
+                        "Doing the right thing",
+                        "Being successful",
+                        "My job"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Your friends say that you are…",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Sarcastic",
+                        "Stubborn",
+                        "Greedy",
+                        "Caring"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "What is your dream job?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Pilot",
+                        "CEO",
+                        "Hunter",
+                        "Other"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Can you speak a foreign language?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "No, but I learn quickly",
+                        "Yes, two",
+                        "No and I'm not interested",
+                        "Yes, many"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "What do you do in your free time?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Relax",
+                        "Hang out with friends",
+                        "Exercise",
+                        "Work"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Is it easy for you to ask for help?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "I'll do it only when necessary",
+                        "Not really",
+                        "No, I prefer to do things on my own",
+                        "Yes"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Would you betray your best friend for $1, 000, 000?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Yes, I will apologize later or give them a share of the money",
+                        "No, never",
+                        "Absolutely",
+                        "I would consider it"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "What would you do to get the Navi to move from their home?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Ask them nicely",
+                        "I would never ask them to leave their homes",
+                        "Threaten them",
+                        "Trade with them"
                     ]
                 }
             ]
