@@ -111,6 +111,118 @@
                     ]
                 }
             ]
+        }
+        ,
+        {
+            "title": "Naruto Shippuden",
+            "new": "true",
+            "characters": 
+            [
+                "Kabuto Yakushi", "Minato Namikaze", "Madara Uchiha", "Tenten", "Yamato", "Sai", "Neji Hyuga", "Tsunade", "Kakashi Hatake", "Jiraiya", "Naruto Uzumaki", "Hinata Hyuga", "Gaara", "Orochimaru", "Sasuke Uchiha", "Sakura Haruno", "Itachi Uchiha", "Kiba Inuzuka", "Rock Lee", "Hiruzen Sarutobi", "Shikamaru Nara", "Obito Uchiha", "Choji Akimichi", "Nagato", "Ino Yamanaka", "Shino Aburame", "Might Guy", "Killer B"
+            ],
+            "quiz": 
+            [
+                {
+                    "Question": "Which animal would you choose to pet right now?(If made possible)",
+                    "Answers":
+                    [
+                        "Fox",
+                        "Anaconda",
+                        "Bull",
+                        "Gorilla"
+                    ]
+                },
+                {
+                    "Question": "Someone insults you what do you do?",
+                    "Answers":
+                    [
+                        "Demand an apology.",
+                        "I wonder What was that?",
+                        "Punch them into face",
+                        "Who the hell cares!"
+                    ]
+                },
+                {
+                    "Question": "What is your Favorite food?",
+                    "Answers":
+                    [
+                        "Ramen!",
+                        "sushi",
+                        "Anko dumplings and umeboshi",
+                        "Other"
+                    ]
+                },
+                {
+                    "Question": "What clothing style would you prefer to try?",
+                    "Answers":
+                    [
+                        "Black color track pants and a decent looking sweat shirt.",
+                        "Cool comfy loose pants with a full sleeved slim fit top.",
+                        "Slim fit clothes with comfy stretch fabric.",
+                        "Doesn't matter. Anything!"
+                    ]
+                },
+                {
+                    "Question": "Which martial art would you prefer to learn?",
+                    "Answers":
+                    [
+                        "Kung fu",
+                        "Judo",
+                        "Jujutsu",
+                        "I don't want to learn any!"
+                    ]
+                },
+                {
+                    "Question": "If you had to go to a war, which weapon would you take with you?",
+                    "Answers":
+                    [
+                        "Shurikens and Kunai",
+                        "A Nagamaki sword",
+                        "Ninja smoke bombs and a Katana",
+                        "Bow and Arrow"
+                    ]
+                },
+                {
+                    "Question": "Which Jutsu is your favorite?",
+                    "Answers":
+                    [
+                        "Teleportation",
+                        "Chidori",
+                        "Shadow Clone",
+                        "Rasengan"
+                    ]
+                },
+                {
+                    "Question": "Who would be the hardest person for you to fight?",
+                    "Answers":
+                    [
+                        "Itachi Uchiha",
+                        "Gaara",
+                        "Madara Uchiha",
+                        "Orochimaru"
+                    ]
+                },
+                {
+                    "Question": "You are asked to take on an important misson, how do you react?",
+                    "Answers":
+                    [
+                        "Let's just get this over with...",
+                        "This is going to be such a pain...",
+                        "Yeah, all right!",
+                        "Oh...um.... okay."
+                    ]
+                },
+                {
+                    "Question": "How would you take down an enemy?",
+                    "Answers":
+                    [
+                        "Use my super cool ninjutsu.",
+                        "Think, and then attack them.",
+                        "I'd work together with my dog and friends.",
+                        "Punch they're lights out."
+                    ]
+                }
+            ]
         },
         {
             "title": "Naruto",
