@@ -2,6 +2,117 @@
     "anime":
     [
         {
+            "title": "One Piece",
+            "new": "true",
+            "characters": 
+            [
+                "Smoker", "Crocodile", "Tony Tony Chopper", "Usopp", "Portgas D. Ace", "Roronoa Zoro", "Monkey D. Luffy", "Nami", "Boa Hancock", "Trafalgar Law", "Sanji", "Shanks", "Donquixote Doflamingo", "Jinbe"
+            ],
+            "quiz": 
+            [
+                {
+                    "Question": "Which one sounds like a good purpose for a pirate?",
+                    "Answers":
+                    [
+                        "Becoming notorious",
+                        "Becoming undefeatable",
+                        "Finding more treasure",
+                        "Finding loyal allies"
+                    ]
+                },
+                {
+                    "Question": "How would you celebrate a huge victory after a tough battle?",
+                    "Answers":
+                    [
+                        "Eating/drinking",
+                        "Meditation",
+                        "Party",
+                        "Cooking"
+                    ]
+                },
+                {
+                    "Question": "What position would you like to have as a ship crew?",
+                    "Answers":
+                    [
+                        "Captain",
+                        "Soldier/warrior",
+                        "Navigator",
+                        "Chief Engineer"
+                    ]
+                },
+                {
+                    "Question": "Which of the following words describes you better?",
+                    "Answers":
+                    [
+                        "Funny",
+                        "Serious",
+                        "Cute",
+                        "Sexy"
+                    ]
+                },
+                {
+                    "Question": "What is your favorite weapon in a battle?",
+                    "Answers":
+                    [
+                        "Haki",
+                        "Sword",
+                        "Big guns",
+                        "My body!"
+                    ]
+                },
+                {
+                    "Question": "Which one sounds like a plan?",
+                    "Answers":
+                    [
+                        "Defeating every other pirate in the world",
+                        "Becoming a master of martial arts",
+                        "Finding the love of your life",
+                        "Becoming a well-known model or influencer"
+                    ]
+                },
+                {
+                    "Question": "What would be your biggest fear as a pirate?",
+                    "Answers":
+                    [
+                        "Losing my crew",
+                        "Being humiliated in a battle",
+                        "Dying in a battle",
+                        "Living a boring life"
+                    ]
+                },
+                {
+                    "Question": "If you were a Haki user, what would you use it for?",
+                    "Answers":
+                    [
+                        "Defeat my enemies",
+                        "Become invincible",
+                        "Help others",
+                        "Gain more money"
+                    ]
+                },
+                {
+                    "Question": "What is the most fun thing about being a pirate?",
+                    "Answers":
+                    [
+                        "Adventures",
+                        "Adrenaline",
+                        "Oceans",
+                        "Traveling"
+                    ]
+                },
+                {
+                    "Question": "Which of the following nicknames would you prefer to have as a pirate?",
+                    "Answers":
+                    [
+                        "The King",
+                        "The Master",
+                        "The Queen",
+                        "The Diva"
+                    ]
+                }
+            ]
+        },
+        {
             "title": "Naruto",
             "new": "true",
             "characters": 
