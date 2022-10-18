@@ -113,6 +113,117 @@
             ]
         },
         {
+            "title": "Avengers",
+            "new": "true",
+            "characters": 
+            [
+                "Iron Man", "Thor", "Ant-Man", "Hulk", "Captain America", "Hawkeye", "Black Panther", "Black Widow", "Spider-Man", "Doctor Strange"
+            ],
+            "quiz": 
+            [
+                {
+                    "Question": "It’s looking bad, and the enemy is gaining quick.. what do you do?",
+                    "Answers":
+                    [
+                        "Plan the battle and lead the team",
+                        "Direct the fight away from civilians",
+                        "Create a diversion and use it to our advantage",
+                        "Rally the enemy, lead them into a trap"
+                    ]
+                },
+                {
+                    "Question": "What’s your favourite class in school?",
+                    "Answers":
+                    [
+                        "History",
+                        "Astronomy",
+                        "Politics",
+                        "Physics"
+                    ]
+                },
+                {
+                    "Question": "What’s your biggest flaw?",
+                    "Answers":
+                    [
+                        "Being a loner",
+                        "Multi-tasking",
+                        "Perfectionist",
+                        "My temper"
+                    ]
+                },
+                {
+                    "Question": "Where are you on a general Saturday night?",
+                    "Answers":
+                    [
+                        "Home alone",
+                        "In the gym",
+                        "Working late",
+                        "Shooting range"
+                    ]
+                },
+                {
+                    "Question": "What did you play with when you were younger?",
+                    "Answers":
+                    [
+                        "Computers",
+                        "Board games",
+                        "Spy set",
+                        "Action figures"
+                    ]
+                },
+                {
+                    "Question": "How best would you describe your ability to work with others?",
+                    "Answers":
+                    [
+                        "Team player all the way",
+                        "Team motivator",
+                        "Best as a mentor",
+                        "On my own – It’s all about me"
+                    ]
+                },
+                {
+                    "Question": "What’s your favourite Olympic sport?",
+                    "Answers":
+                    [
+                        "Weight lifting",
+                        "High jump",
+                        "Gymnastics",
+                        "The Hammer"
+                    ]
+                },
+                {
+                    "Question": "Which weapon would you like most?",
+                    "Answers":
+                    [
+                        "Shield",
+                        "Temper",
+                        "A team",
+                        "Bow and arrow"
+                    ]
+                },
+                {
+                    "Question": "What motivates you most?",
+                    "Answers":
+                    [
+                        "To cure",
+                        "Make up for the past",
+                        "Peacekeeping",
+                        "Being the lead in innovation"
+                    ]
+                },
+                {
+                    "Question": "What is your best feature?",
+                    "Answers":
+                    [
+                        "My wit",
+                        "My compassion",
+                        "My mind",
+                        "My foresight"
+                    ]
+                }
+            ]
+        },
+        {
             "title": "Spider-Man",
             "new": "true",
             "characters": 
