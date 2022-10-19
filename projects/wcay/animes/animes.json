@@ -229,7 +229,7 @@
             "new": "true",
             "characters": 
             [
-                "Orihime Inoue", "Rukia Kuchiki", "Ichigo Kurosaki", "Uryū Ishida", "Kon"
+                "Orihime Inoue", "Rukia Kuchiki", "Ichigo Kurosaki", "Uryū Ishida"
             ],
             "quiz": 
             [
@@ -442,6 +442,117 @@
                         "120th floor",
                         "200th floor",
                         "You have no interest in Heavens Arena"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Yu-Gi-Oh! (Coming soon)",
+            "new": "true",
+            "characters": 
+            [
+                ""
+            ],
+            "quiz": 
+            [
+                {
+                    "Question": "Coming soon",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "Coming soon",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "Coming soon",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "Coming soon",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "Coming soon",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "Coming soon",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "Coming soon",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "Coming soon",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "Coming soon",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "Coming soon",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
                     ]
                 }
             ]
