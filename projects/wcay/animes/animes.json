@@ -340,108 +340,108 @@
             "new": "true",
             "characters": 
             [
-                ""
+                "Ging Freecss", "Chrollo Lucifer", "Kurapika", "Gon Freecss", "Killua Zoldyck", "Hisoka Morow", "Leorio Paladiknight", "Isaac Netero"
             ],
             "quiz": 
             [
                 {
-                    "Question": "Loading...",
+                    "Question": "When your friends are fighting, what do you do?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Let them settle it",
+                        "Add fuel to the fire",
+                        "Don't care",
+                        "try and help out"
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "You're faced with an opponent far stronger than you. What do you do?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Chicken out and make a dash for it",
+                        "Laugh madly with excitement",
+                        "Try and talk your way out of the situation",
+                        "Figure something out"
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "What power do you want?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Wind",
+                        "Fire",
+                        "Lightning",
+                        "Metal"
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "What weapon do you prefer?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "I prefer to use my fists in a fight!",
+                        "Knife",
+                        "Slingshot",
+                        "Something weird and unique"
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "Which of these personalities defines you best?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Polite",
+                        "Cheeky",
+                        "Stoic",
+                        "Extravagant"
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "Which of these hair colors do you have or wish you had?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Black",
+                        "Red",
+                        "White",
+                        "Blond/Blonde"
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "Which of these is your dream job?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Hunter",
+                        "Assassin",
+                        "Teacher",
+                        "Serial Killer"
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "Your best friend is killed, and you meet their killer. What course of action do you take?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "You give your life to give them what they deserve!",
+                        "You find them, then give them a beating.",
+                        "You make sure they suffer for the rest of their lives by torturing them.",
+                        "You just mourn them and go on living."
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "You have some free time; how would you spend it?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Fishing",
+                        "Planning your next job",
+                        "Studying",
+                        "Using your Hunters license to make some money"
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "What floor could you make it to in Heavens Arena",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "40th floor",
+                        "120th floor",
+                        "200th floor",
+                        "You have no interest in Heavens Arena"
                     ]
                 }
             ]
