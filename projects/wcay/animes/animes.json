@@ -229,108 +229,108 @@
             "new": "true",
             "characters": 
             [
-                ""
+                "Orihime Inoue", "Rukia Kuchiki", "Ichigo Kurosaki", "Uryū Ishida", "Kon"
             ],
             "quiz": 
             [
                 {
-                    "Question": "Loading...",
+                    "Question": "As a \"Bleach\" character, what do you think your purpose would be?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "To protect my loved ones",
+                        "To learn and use my mind to defeat evil",
+                        "To find myself and not depend on others",
+                        "To be the best I can be"
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "Which character is your all-time favorite?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Ichigo",
+                        "Toshiro",
+                        "Rukia",
+                        "Orihime"
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "Which Division is your favorite?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Zero",
+                        "Tenth",
+                        "Thirteenth",
+                        "Fourth"
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "What would your title be?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Lieutenant",
+                        "Ryoka",
+                        "Captain",
+                        "I wouldn’t have a title"
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "What nickname would you want to be called?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Shrimp",
+                        "Do-gooder",
+                        "Badass",
+                        "Sweetheart"
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "What’s your fighting style like?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Impassioned",
+                        "Calm and efficient",
+                        "Calculated",
+                        "Passive"
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "What are you usually doing during a battle?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "In the frontlines, fighting my hardest",
+                        "Observing, only stepping in if I need to",
+                        "Helping my team out the best I can",
+                        "Healing the fallen"
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "Which weapon would you use to fight?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Sword",
+                        "Knives",
+                        "Katana",
+                        "My powers"
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "What super power suits you the most?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Shapeshifting",
+                        "Invisibility",
+                        "Super speed",
+                        "Flying"
                     ]
                 },
                 {
-                    "Question": "Loading...",
+                    "Question": "What would your Shikai (first upgraded form of a Shinigami’s weapon) be?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Slaying Moon",
+                        "Subjugation of the Heavens",
+                        "Sleeved White Snow",
+                        "Rainbow Mist"
                     ]
                 }
             ]
