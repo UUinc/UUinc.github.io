@@ -2,6 +2,228 @@
     "movie":
     [
         {
+            "title": "Harry Potter",
+            "new": "true",
+            "characters": 
+            [
+                "Draco Malfoy", "Ron Weasley", "Hermione Granger", "Harry Potter", "Severus Snape", "Lord Voldemort", "Dobby"
+            ],
+            "quiz": 
+            [
+                {
+                    "Question": "Which House do you think that you would belong to?",
+                    "Answers":
+                    [
+                        "Gryffindor",
+                        "Hufflepuff",
+                        "Ravenclaw",
+                        "Slytherin"
+                    ]
+                },
+                {
+                    "Question": "What was your childhood like?",
+                    "Answers":
+                    [
+                        "I have a big family, so my childhood was pretty chaotic",
+                        "I was raised by my grandparents",
+                        "I had a very lonely childhood with few friends and family around",
+                        "I had a ton of friends growing up and spent most of my time with them"
+                    ]
+                },
+                {
+                    "Question": "What would you choose as your Patronus?",
+                    "Answers":
+                    [
+                        "Monkey",
+                        "Alligator",
+                        "Deer",
+                        "Dog"
+                    ]
+                },
+                {
+                    "Question": "Choose a wizarding book to read:",
+                    "Answers":
+                    [
+                        "Nature's Nobility: A Wizarding Genealogy",
+                        "Winogrand's Wondrous Water Plants",
+                        "Practical Defensive Magic and Its Use Against the Dark Arts",
+                        "A Guide to Advanced Transfiguration"
+                    ]
+                },
+                {
+                    "Question": "Which of these would be your favorite class at Hogwarts?",
+                    "Answers":
+                    [
+                        "Flying",
+                        "Defence Against the Dark Arts",
+                        "Potions",
+                        "Transfiguration"
+                    ]
+                },
+                {
+                    "Question": "Which of these Wizarding shops would you most want to visit?",
+                    "Answers":
+                    [
+                        "Dogweed and Deathcap",
+                        "Honeydukes",
+                        "Eeylops Owl Emporium",
+                        "Zonko's Joke Shop"
+                    ]
+                },
+                {
+                    "Question": "Choose a type of wood for your wand:",
+                    "Answers":
+                    [
+                        "Hawthorn",
+                        "Holly",
+                        "Ash",
+                        "Willow"
+                    ]
+                },
+                {
+                    "Question": "Which of these professors would you most like to be taught by?",
+                    "Answers":
+                    [
+                        "Professor Flitwick",
+                        "Professor Sprout",
+                        "Professor Lupin",
+                        "Professor Snape"
+                    ]
+                },
+                {
+                    "Question": "Which Quidditch position would you want to play?",
+                    "Answers":
+                    [
+                        "Seeker",
+                        "Chaser",
+                        "Beater",
+                        "Keeper"
+                    ]
+                },
+                {
+                    "Question": "Which of these characters do you think that you are the LEAST like?",
+                    "Answers":
+                    [
+                        "Ron Weasley",
+                        "Neville Longbottom",
+                        "Draco Malfoy",
+                        "Cedric Diggory"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "The Lord of The Rings",
+            "new": "true",
+            "characters": 
+            [
+                "Gimli", "Gollum", "Legolas", "Aragorn", "Gandalf", "Samwise Gamgee", "Frodo Baggins"
+            ],
+            "quiz": 
+            [
+                {
+                    "Question": "Which part of Middle Earth would you want to come from?",
+                    "Answers":
+                    [
+                        "The Shire",
+                        "Rohan",
+                        "Gondor",
+                        "Arnor"
+                    ]
+                },
+                {
+                    "Question": "What would you do if you got the ring?",
+                    "Answers":
+                    [
+                        "Take it for myself",
+                        "Try to destroy it",
+                        "I would give it to someone else",
+                        "I would take over the world with it"
+                    ]
+                },
+                {
+                    "Question": "Who is the most formidable villain?",
+                    "Answers":
+                    [
+                        "Gollum",
+                        "Shelob",
+                        "Sauron",
+                        "Saruman"
+                    ]
+                },
+                {
+                    "Question": "What kind of weapon would you want to wield?",
+                    "Answers":
+                    [
+                        "Bow",
+                        "Knife",
+                        "Sword",
+                        "Staff"
+                    ]
+                },
+                {
+                    "Question": "What would your friends call you?",
+                    "Answers":
+                    [
+                        "Caring",
+                        "Optimistic",
+                        "Fun",
+                        "Grumpy"
+                    ]
+                },
+                {
+                    "Question": "What kind of character would you want to be?",
+                    "Answers":
+                    [
+                        "Hobbit",
+                        "Elf",
+                        "Man",
+                        "Wizard"
+                    ]
+                },
+                {
+                    "Question": "Which character would accompany you on your journey?",
+                    "Answers":
+                    [
+                        "Sam",
+                        "Frodo",
+                        "Legolas",
+                        "Aragorn"
+                    ]
+                },
+                {
+                    "Question": "Which of these abilities would you want to have in Middle Earth?",
+                    "Answers":
+                    [
+                        "Invisibility",
+                        "Fast healing",
+                        "Immortality",
+                        "Visions of the future"
+                    ]
+                },
+                {
+                    "Question": "How would you describe yourself in one word?",
+                    "Answers":
+                    [
+                        "Brave",
+                        "Loyal",
+                        "Strong",
+                        "Wise"
+                    ]
+                },
+                {
+                    "Question": "What is the scariest creature in Middle Earth?",
+                    "Answers":
+                    [
+                        "Orcs",
+                        "Trolls",
+                        "Nazgul",
+                        "Balrogs"
+                    ]
+                }
+            ]
+        },
+        {
             "title": "Avatar",
             "new": "true",
             "characters": 
@@ -330,6 +552,117 @@
                         "I prefer to keep people distant enough that they don't see the real me",
                         "Only certain people",
                         "Yes"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Back to the Future",
+            "new": "true",
+            "characters": 
+            [
+                "Lorraine Baines McFly", "Marty McFly", "Doc Brown", "George McFly", "Clara Clayton"
+            ],
+            "quiz": 
+            [
+                {
+                    "Question": "If your friend was about to get pulverized by a bully. What what you do?",
+                    "Answers":
+                    [
+                        "Step in to help out",
+                        "Try and say something to keep it from happening",
+                        "Call the guy out and hope the bully targets you instead",
+                        "Say nothing and hope not to get noticed"
+                    ]
+                },
+                {
+                    "Question": "You've planned a trip to the lake, but the car is wrecked. What do you do?",
+                    "Answers":
+                    [
+                        "Blame it on a blind spot, even though you were drunk",
+                        "Try to fix it with some rocket boosters?",
+                        "Cry about it",
+                        "Doesn't matter, you can't drive"
+                    ]
+                },
+                {
+                    "Question": "Your friend asks you to meet them at the mall at 1:15 in the morning. Do you go?",
+                    "Answers":
+                    [
+                        "Only if you can bring some backup",
+                        "Of course",
+                        "As long as you get to walk there!",
+                        "Think about it and then decide to bail"
+                    ]
+                },
+                {
+                    "Question": "You're friend built a time machine! Want to go for a trip?",
+                    "Answers":
+                    [
+                        "No, that's freaky",
+                        "Definitely! No gambling, though",
+                        "Well... maybe...",
+                        "Science fiction role play? Awesome!"
+                    ]
+                },
+                {
+                    "Question": "You're were transported to 1955 with no plutonium to get back. What now?",
+                    "Answers":
+                    [
+                        "Panic",
+                        "Time to find a friend from the past",
+                        "Oh no! Who will provide you with food?",
+                        "Buy some vintage comics"
+                    ]
+                },
+                {
+                    "Question": "You've found a new source of power, but it's a long shot. How do you react?",
+                    "Answers":
+                    [
+                        "You get aggressive",
+                        "You keep your cool",
+                        "You work out a sophisticated plan of action",
+                        "You guess it's not so bad in 1955"
+                    ]
+                },
+                {
+                    "Question": "Before you go back to your current time, you have to play a song for the big dance. What do you play?",
+                    "Answers":
+                    [
+                        "\"Death Magnetic\" by Metallica",
+                        "\"Johnny B. Goode\" by Chuck Berry",
+                        "\"Safety Dance\" by Men Without Hats",
+                        "\"She Blinded Me with Science\" by Thomas Dolby"
+                    ]
+                },
+                {
+                    "Question": "You wake up the next day. Was it a dream?",
+                    "Answers":
+                    [
+                        "Of course not",
+                        "You hope not",
+                        "Think what was a dream?",
+                        "Of course, time travel is dumb"
+                    ]
+                },
+                {
+                    "Question": "What type of coat is your favorite?",
+                    "Answers":
+                    [
+                        "A lab coat",
+                        "A red vest",
+                        "A grey jacket",
+                        "A fur coat"
+                    ]
+                },
+                {
+                    "Question": "Your friend comes back with the time machine and now it can fly! Want to go on another adventure?",
+                    "Answers":
+                    [
+                        "Absolutely!",
+                        "You're not sure",
+                        "Nah, you want to go for a walk",
+                        "No way"
                     ]
                 }
             ]

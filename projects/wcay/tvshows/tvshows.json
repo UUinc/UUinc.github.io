@@ -2,6 +2,450 @@
     "tvShow":
     [
         {
+            "title": "House of the Dragon (Coming soon)",
+            "new": "true",
+            "characters": 
+            [
+                "", "", "", "", "", "", "", "", "", ""
+            ],
+            "quiz": 
+            [
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Stranger Things (Coming soon)",
+            "new": "true",
+            "characters": 
+            [
+                "", "", "", "", "", "", "", "", "", ""
+            ],
+            "quiz": 
+            [
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Better Call Saul (Coming soon)",
+            "new": "true",
+            "characters": 
+            [
+                "", "", "", "", "", "", "", "", "", ""
+            ],
+            "quiz": 
+            [
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mr. Robot (Coming soon)",
+            "new": "true",
+            "characters": 
+            [
+                "", "", "", "", "", "", "", "", "", ""
+            ],
+            "quiz": 
+            [
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "Question": "",
+                    "Answers":
+                    [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
             "title": "Euphoria",
             "new": "true",
             "characters": 
