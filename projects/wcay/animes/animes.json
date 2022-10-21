@@ -447,112 +447,112 @@
             ]
         },
         {
-            "title": "Attack on Titan (Coming soon)",
+            "title": "Attack on Titan",
             "new": "true",
             "characters": 
             [
-                ""
+                "Connie Springer", "Jean Kirstein", "Levi Ackerman", "Hange Zoe", "Mikasa Ackerman", "Eren Yeager", "Sasha Braus", "Erwin Smith", "Armin Arlert"
             ],
             "quiz": 
             [
                 {
-                    "Question": "Coming soon",
+                    "Question": "What is your first reaction when encountering a Titan?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Defend me",
+                        "Alert my friends",
+                        "Attack it",
+                        "Plan a scape"
                     ]
                 },
                 {
-                    "Question": "Coming soon",
+                    "Question": "What is the best way to deal with Titans?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Building stronger armies",
+                        "Killing all of them",
+                        "Having better weapons",
+                        "Having stronger cities"
                     ]
                 },
                 {
-                    "Question": "Coming soon",
+                    "Question": "What is your reason for killing the Titans?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Protection",
+                        "Revenge",
+                        "Victory",
+                        "Fun"
                     ]
                 },
                 {
-                    "Question": "Coming soon",
+                    "Question": "Which of the following issues would be your priority as a Military soldier?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Discipline",
+                        "Practice",
+                        "Getting stronger",
+                        "Learning"
                     ]
                 },
                 {
-                    "Question": "Coming soon",
+                    "Question": "Which one sounds like the best way to kill a Titan?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "A fast and deep cut around the neck",
+                        "A group attack",
+                        "A long-range headshot",
+                        "An explosive trap"
                     ]
                 },
                 {
-                    "Question": "Coming soon",
+                    "Question": "What type of Scouts do you hate the most?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Messy",
+                        "Coward",
+                        "Disloyal",
+                        "Stupid"
                     ]
                 },
                 {
-                    "Question": "Coming soon",
+                    "Question": "What type of Scouts do you like the most?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Orderly",
+                        "Determined",
+                        "Reliable",
+                        "Tactical"
                     ]
                 },
                 {
-                    "Question": "Coming soon",
+                    "Question": "Which of the following scenarios scares you the most?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Titans breaking the walls",
+                        "Losing a close friend",
+                        "Losing an important battle",
+                        "Dying in a horrific way"
                     ]
                 },
                 {
-                    "Question": "Coming soon",
+                    "Question": "Choose a word that makes you feel empowered",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Peace",
+                        "Revenge",
+                        "Love",
+                        "Freedom"
                     ]
                 },
                 {
-                    "Question": "Coming soon",
+                    "Question": "You see a Titan attacking an innocent girl. Your next action is",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Saving the girl",
+                        "Distracting the Titan",
+                        "Attacking the Titan",
+                        "Waiting for the Titan to eat her alive"
                     ]
                 }
             ]
