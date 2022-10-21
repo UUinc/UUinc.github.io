@@ -447,7 +447,7 @@
             ]
         },
         {
-            "title": "Yu-Gi-Oh! (Coming soon)",
+            "title": "Attack on Titan (Coming soon)",
             "new": "true",
             "characters": 
             [
@@ -553,6 +553,117 @@
                         "",
                         "",
                         ""
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Yu-Gi-Oh!",
+            "new": "true",
+            "characters": 
+            [
+                "Tea Gardner", "Yugi Muto", "Yami Yugi", "Seto Kaiba", "Joey Wheeler", "Tristan Tylor"
+            ],
+            "quiz": 
+            [
+                {
+                    "Question": "Pick a monster:",
+                    "Answers":
+                    [
+                        "Blue-Eyes White Dragon",
+                        "Dark Magician",
+                        "Time Wizard",
+                        "Cyber Dragon"
+                    ]
+                },
+                {
+                    "Question": "Pick an other monster",
+                    "Answers":
+                    [
+                        "Slifer the Sky Dragon",
+                        "Obelisk the Tormentor",
+                        "The Winged Dragon of Ra",
+                        "Exodia The Forbidden One"
+                    ]
+                },
+                {
+                    "Question": "How would you describe your personal style?",
+                    "Answers":
+                    [
+                        "Still a '90s emo kid at heart",
+                        "Cute and flirty",
+                        "T-shirt, jeans, done",
+                        "Mostly neutrals"
+                    ]
+                },
+                {
+                    "Question": "What do you find most attractive in a partner?",
+                    "Answers":
+                    [
+                        "Power obviously",
+                        "Kindness",
+                        "Sense of humor",
+                        "Their brain"
+                    ]
+                },
+                {
+                    "Question": "What do you like to do for fun?",
+                    "Answers":
+                    [
+                        "Playing board games",
+                        "Shopping",
+                        "Dancing",
+                        "Video games"
+                    ]
+                },
+                {
+                    "Question": "You are going to school and a couple of bullies come to pick on you, what would you do?",
+                    "Answers":
+                    [
+                        "Beat them up",
+                        "Call my bodyguards",
+                        "Please go away, I don't want to hurt you",
+                        "Let's duel!"
+                    ]
+                },
+                {
+                    "Question": "Someone offers a piece of candy, what would you do?",
+                    "Answers":
+                    [
+                        "Wow, thanks!",
+                        "Really, for me?",
+                        "Cool!",
+                        "Throw it away"
+                    ]
+                },
+                {
+                    "Question": "Which method of dueling do you prefer?",
+                    "Answers":
+                    [
+                        "XYZ",
+                        "Synchro",
+                        "Fusion",
+                        "Pendulum"
+                    ]
+                },
+                {
+                    "Question": "The fate of the world rests in your hands, what would you do?",
+                    "Answers":
+                    [
+                        "Yes! World domination will be mine!",
+                        "What, this can't be true!",
+                        "This is insane!",
+                        "This will take confidence and courage, luckily I have it."
+                    ]
+                },
+                {
+                    "Question": "Finally, choose a Millennium Item",
+                    "Answers":
+                    [
+                        "Puzzle",
+                        "Ring",
+                        "Eye",
+                        "All of them"
                     ]
                 }
             ]
