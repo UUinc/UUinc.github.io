@@ -2,445 +2,445 @@
     "tvShow":
     [
         {
-            "title": "House of the Dragon (Coming soon)",
+            "title": "House of the Dragon",
             "new": "true",
             "characters": 
             [
-                "", "", "", "", "", "", "", "", "", ""
+                "King Viserys Targaryen", "Alicent Hightower", "Aegon Targaryen", "Rhaenyra Targaryen", "Criston Cole", "Daemon Targaryen", "Lucerys Velaryon"
             ],
             "quiz": 
             [
                 {
-                    "Question": "",
+                    "Question": "How do others describe you?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Complex",
+                        "Brave",
+                        "Unique",
+                        "Passionate"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "You're held captive and don't know if you'll ever see daylight again. How do you pass the time?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "I read books",
+                        "I plot my escape",
+                        "I stare into the abyss of my soul",
+                        "I kill myself"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Someone killed your entire family. What do you do?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "I mourn and wear black",
+                        "I avenge my family, no matter what!",
+                        "As long as I live, no one can ever harm my family!",
+                        "I don't care about it"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Which of these adjectives describes you best?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Ambitious",
+                        "Creative",
+                        "Determined",
+                        "Independent"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "How do you recharge after a hard day?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "I drink a beer with friends",
+                        "I eat a hearty meal",
+                        "I go to bed immediately",
+                        "I watch a movie"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "It would be so cool if dragons were real",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Disagree",
+                        "Somewhat disagree",
+                        "Somewhat agree",
+                        "Agree"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Which emotion do you experience the most?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Anger",
+                        "Anxiety",
+                        "Disdain",
+                        "Desire"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Which of these things is your driving force?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Revenge",
+                        "Hope",
+                        "Protection",
+                        "Adventure"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "The king believes you should not be the heir to the throne. How do you react to that?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "I respect the king’s decision",
+                        "I prove the king wrong",
+                        "I leave the kingdom for good",
+                        "I assassinate the king"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Should you be the ruler of Westeros, what would you prioritize?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Educating my people",
+                        "Protecting the weak",
+                        "Peacemaking",
+                        "Conquering all the lands and seas"
                     ]
                 }
             ]
         },
         {
-            "title": "Stranger Things (Coming soon)",
+            "title": "Stranger Things",
             "new": "true",
             "characters": 
             [
-                "", "", "", "", "", "", "", "", "", ""
+                "Steve Harrington", "Jonathan Byers", "Will Byers", "Mike Wheeler", "Eleven", "Dustin Henderson", "Joyce Byers", "Lucas Sinclair", "Max Mayfield", "Jim Hopper"
             ],
             "quiz": 
             [
                 {
-                    "Question": "",
+                    "Question": "What type of person do you hate the most?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Coward",
+                        "Lier",
+                        "Aggressive",
+                        "Pessimist"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Which of the following traits is the most loveable one, in your opinion?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Kindness",
+                        "Trustworthiness",
+                        "Humor",
+                        "Creativity"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "What type of person would you marry?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Reliable",
+                        "Responsible",
+                        "Committed",
+                        "Adventurous"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Which of the Stranger Things character would you kill (if you had to)?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Dustin",
+                        "Mike",
+                        "Will",
+                        "Eleven"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "What can force you to kill someone?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Self-defense",
+                        "Saving someone",
+                        "Protecting others",
+                        "Nothing"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "What would be your first reaction when encountering a monster?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Fight",
+                        "Cover",
+                        "Run",
+                        "Analyze"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "What kind of monsters are the most dangerous ones?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Big ones",
+                        "Intelligent ones",
+                        "Mind-controlling ones",
+                        "All of them"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Which one sounds like an excellent weekend plan?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Chilling with best friend(s)",
+                        "Reading",
+                        "Nighttime outdoor fun",
+                        "Dating and naughty stuff"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Which of the following activities sounds like something you’d enjoy?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Sports",
+                        "Movies",
+                        "Drinking games",
+                        "Video games"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Choose your favorite field",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "History",
+                        "Literature",
+                        "Arts",
+                        "Science"
                     ]
                 }
             ]
         },
         {
-            "title": "Better Call Saul (Coming soon)",
+            "title": "Better Call Saul",
             "new": "true",
             "characters": 
             [
-                "", "", "", "", "", "", "", "", "", ""
+                "Gus Fring", "Kim Wexler", "Jimmy McGill", "Lalo Salamanca", "Mike Ehrmantraut"
             ],
             "quiz": 
             [
                 {
-                    "Question": "",
+                    "Question": "Which of the Better Call Saul criminals deserved better faith?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Nacho Varga",
+                        "Gus Fring",
+                        "Gale Boetticher",
+                        "Tuco Salamanca"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "What makes Jimmy (Saul Goodman) a good lawyer?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "His ambition",
+                        "His cleverness",
+                        "His lack of morals",
+                        "He’s not a good lawyer"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "What would you do if you found out that someone was about to snitch on you?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "I’d ask for a friend’s help",
+                        "I’d blackmail them",
+                        "I’d get rid of them",
+                        "I’d pay someone to make them vanish"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "How do you feel about people who work with cops?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Nothing specific",
+                        "I admire them",
+                        "I pity them",
+                        "I despise them"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "A Mexican drug cartel leader wants to talk to you. What do you do?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "I don’t know what to do",
+                        "I set a meeting in a public place",
+                        "It depends on the matter",
+                        "I invite them to my house and cook for them"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "You found a million dollars in cash in the backyard of your house. What’s your next move?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "I’d call my best friend and ask them to come over",
+                        "I’d turn it into bitcoin or NFT right away",
+                        "I’d buy a house for my family",
+                        "I’d call the authorities"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "What do you think is the best strategy for a criminal to get away with their crimes?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Using surnames",
+                        "Getting a great lawyer",
+                        "Paying others to do the dirty work for you",
+                        "Doing lots of charity stuff"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Which one sounds like a proper way of money laundering?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Buying digital assets",
+                        "Establishing local businesses",
+                        "Transferring the money to other countries",
+                        "Spending the dirty money through charity activities"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "You have $50K to give to a charity. Which one would you donate it to?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Kids’ hospital",
+                        "Homeless people’s charity",
+                        "I spend the money on my own family",
+                        "Drug Enforcement Administration (DEA)"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "What is your #1 priority in life?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Love",
+                        "Career",
+                        "Money",
+                        "Family"
                     ]
                 }
             ]
         },
         {
-            "title": "Mr. Robot (Coming soon)",
+            "title": "Mr. Robot",
             "new": "true",
             "characters": 
             [
-                "", "", "", "", "", "", "", "", "", ""
+                "Angela Moss", "Whiterose", "Darlene Alderson", "Elliot Alderson", "Mr Robot", "Tyrell Wellick", "Philip Price"
             ],
             "quiz": 
             [
                 {
-                    "Question": "",
+                    "Question": "Are you able to ask for help when you need it?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Asking for help isn't my strong suit",
+                        "Yes, but I don't like it",
+                        "I don't need anyone's help",
+                        "Not directly, but I still find a way to get what I need"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Are you good at giving inspiring impromptu speeches?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Yes, I know how to get people motivated",
+                        "No",
+                        "I'm decent at public speaking, but I wouldn't say my speeches are inspirational",
+                        "My speeches inspire fear, and that's all that matters"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Do you ever show up at friends' houses without being invited?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Yes, that's what friends are for",
+                        "Sometimes, but I try not to make it a habit",
+                        "Only if I have an important reason",
+                        "I go where I want, when I want - invitation or not"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Are you secretive?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Yes",
+                        "No",
+                        "About certain things, yes",
+                        "I have to be"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "How do you cope with everyday life?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "I listen to and practice daily affirmations",
+                        "I find a way to blow off steam",
+                        "I do what I have to in order to survive",
+                        "I don't cope very well"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Would you ever take a ballet class for fun?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Ballet isn't really my thing",
+                        "No",
+                        "If I had someone willing to do it with me",
+                        "Sure, that would be nice"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Do you enjoy social interaction?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "No, I'm not very good at it",
+                        "I enjoy socializing with select people",
+                        "No, but it's a necessary part of life",
+                        "I have great people skills, but most people suck"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Do you believe in conspiracy theories?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "I think dissent and questioning authority are important",
+                        "Yes",
+                        "I'm the type of person who exposes conspiracy theories",
+                        "I believe in facts, and sometimes facts amount to conspiracy theories"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Do you ever talk to yourself?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Everyone has some sort of internal dialogue",
+                        "Yes, it helps me figure out challenging problems",
+                        "I practice positive self-talk to boost my confidence",
+                        "Not usually, no"
                     ]
                 },
                 {
-                    "Question": "",
+                    "Question": "Do you want to save the world?",
                     "Answers":
                     [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Yes",
+                        "I want to free the world",
+                        "I'm not sure it can be saved",
+                        "I want to change the world"
                     ]
                 }
             ]
