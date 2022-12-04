@@ -180,6 +180,26 @@
                 "date" : "09-12-2022",
                 "time" : "19:00 UTC" 
             }
+        },
+        {
+            "team":
+            [
+                {
+                    "name": "France",
+                    "image": "https://flagsapi.com/FR/flat/64.png",
+                    "score": ""
+                },
+                {
+                    "name": "England",
+                    "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
+                    "score": ""
+                }
+            ],
+            "info": 
+            {
+                "date" : "10-12-2022",
+                "time" : "19:00 UTC" 
+            }
         }
     ]
 }
