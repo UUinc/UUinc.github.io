@@ -1,0 +1,275 @@
+{
+    "bracket":
+    [
+        {
+            "name":"Round of 16",
+            "games":
+            [
+                {
+                    "team":
+                    [
+                        {
+                            "name": "Netherlands",
+                            "image": "https://flagsapi.com/NL/flat/64.png",
+                            "score": "3"
+                        },
+                        {
+                            "name": "USA",
+                            "image": "https://flagsapi.com/US/flat/64.png",
+                            "score": "1"
+                        }
+                    ]
+                },
+                {
+                    "team":
+                    [
+                        {
+                            "name": "Argentina",
+                            "image": "https://flagsapi.com/AR/flat/64.png",
+                            "score": "2"
+                        },
+                        {
+                            "name": "Australia",
+                            "image": "https://flagsapi.com/AU/flat/64.png",
+                            "score": "1"
+                        }
+                    ]
+                },
+                {
+                    "team":
+                    [
+                        {
+                            "name": "Japan",
+                            "image": "https://flagsapi.com/JP/flat/64.png",
+                            "score": ""
+                        },
+                        {
+                            "name": "Croatia",
+                            "image": "https://flagsapi.com/HR/flat/64.png",
+                            "score": ""
+                        }
+                    ]
+                },
+                {
+                    "team":
+                    [
+                        {
+                            "name": "Brazil",
+                            "image": "https://flagsapi.com/BR/flat/64.png",
+                            "score": ""
+                        },
+                        {
+                            "name": "South Korea",
+                            "image": "https://flagsapi.com/KR/flat/64.png",
+                            "score": ""
+                        }
+                    ]
+                },
+                {
+                    "team":
+                    [
+                        {
+                            "name": "England",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
+                            "score": ""
+                        },
+                        {
+                            "name": "Senegal",
+                            "image": "https://flagsapi.com/SN/flat/64.png",
+                            "score": ""
+                        }
+                    ]
+                },
+                {
+                    "team":
+                    [
+                        {
+                            "name": "France",
+                            "image": "https://flagsapi.com/FR/flat/64.png",
+                            "score": "3"
+                        },
+                        {
+                            "name": "Poland",
+                            "image": "https://flagsapi.com/PL/flat/64.png",
+                            "score": "1"
+                        }
+                    ]
+                },
+                {
+                    "team":
+                    [
+                        {
+                            "name": "Morocco",
+                            "image": "https://flagsapi.com/MA/flat/64.png",
+                            "score": ""
+                        },
+                        {
+                            "name": "Spain",
+                            "image": "https://flagsapi.com/ES/flat/64.png",
+                            "score": ""
+                        }
+                    ]
+                },
+                {
+                    "team":
+                    [
+                        {
+                            "name": "Portugal",
+                            "image": "https://flagsapi.com/PT/flat/64.png",
+                            "score": ""
+                        },
+                        {
+                            "name": "Switzerland",
+                            "image": "https://flagsapi.com/CH/flat/64.png",
+                            "score": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name":"Quarter-finals",
+            "games":
+            [
+                {
+                    "team":
+                    [
+                        {
+                            "name": "Netherlands",
+                            "image": "https://flagsapi.com/NL/flat/64.png",
+                            "score": ""
+                        },
+                        {
+                            "name": "Argentina",
+                            "image": "https://flagsapi.com/AR/flat/64.png",
+                            "score": ""
+                        }
+                    ]
+                },
+                {
+                    "team":
+                    [
+                        {
+                            "name": "?",
+                            "image": "",
+                            "score": ""
+                        },
+                        {
+                            "name": "?",
+                            "image": "",
+                            "score": ""
+                        }
+                    ]
+                },
+                {
+                    "team":
+                    [
+                        {
+                            "name": "?",
+                            "image": "",
+                            "score": ""
+                        },
+                        {
+                            "name": "France",
+                            "image": "https://flagsapi.com/FR/flat/64.png",
+                            "score": ""
+                        }
+                    ]
+                },
+                {
+                    "team":
+                    [
+                        {
+                            "name": "?",
+                            "image": "",
+                            "score": ""
+                        },
+                        {
+                            "name": "?",
+                            "image": "",
+                            "score": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name":"Semi-finals",
+            "games":
+            [
+                {
+                    "team":
+                    [
+                        {
+                            "name": "?",
+                            "image": "",
+                            "score": ""
+                        },
+                        {
+                            "name": "?",
+                            "image": "",
+                            "score": ""
+                        }
+                    ]
+                },
+                {
+                    "team":
+                    [
+                        {
+                            "name": "?",
+                            "image": "",
+                            "score": ""
+                        },
+                        {
+                            "name": "?",
+                            "image": "",
+                            "score": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name":"Third place play-off",
+            "games":
+            [
+                {
+                    "team":
+                    [
+                        {
+                            "name": "?",
+                            "image": "",
+                            "score": ""
+                        },
+                        {
+                            "name": "?",
+                            "image": "",
+                            "score": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name":"Final",
+            "games":
+            [
+                {
+                    "team":
+                    [
+                        {
+                            "name": "?",
+                            "image": "",
+                            "score": ""
+                        },
+                        {
+                            "name": "?",
+                            "image": "",
+                            "score": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
