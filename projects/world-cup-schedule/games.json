@@ -78,7 +78,107 @@
             "info": 
             {
                 "date" : "04-12-2022",
+                "time" : "19:00 UTC" 
+            }
+        },
+        {
+            "team":
+            [
+                {
+                    "name": "Croatia",
+                    "image": "https://flagsapi.com/RH/flat/64.png",
+                    "score": ""
+                },
+                {
+                    "name": "Japan",
+                    "image": "https://flagsapi.com/JP/flat/64.png",
+                    "score": ""
+                }
+            ],
+            "info": 
+            {
+                "date" : "05-12-2022",
                 "time" : "15:00 UTC" 
+            }
+        },
+        {
+            "team":
+            [
+                {
+                    "name": "South Korea",
+                    "image": "https://flagsapi.com/KR/flat/64.png",
+                    "score": ""
+                },
+                {
+                    "name": "Brazil",
+                    "image": "https://flagsapi.com/BR/flat/64.png",
+                    "score": ""
+                }
+            ],
+            "info": 
+            {
+                "date" : "05-12-2022",
+                "time" : "19:00 UTC" 
+            }
+        },
+        {
+            "team":
+            [
+                {
+                    "name": "Spain",
+                    "image": "https://flagsapi.com/ES/flat/64.png",
+                    "score": ""
+                },
+                {
+                    "name": "Morocco",
+                    "image": "https://flagsapi.com/MA/flat/64.png",
+                    "score": ""
+                }
+            ],
+            "info": 
+            {
+                "date" : "06-12-2022",
+                "time" : "15:00 UTC" 
+            }
+        },
+        {
+            "team":
+            [
+                {
+                    "name": "Switzerland",
+                    "image": "https://flagsapi.com/CH/flat/64.png",
+                    "score": ""
+                },
+                {
+                    "name": "Portugal",
+                    "image": "https://flagsapi.com/PT/flat/64.png",
+                    "score": ""
+                }
+            ],
+            "info": 
+            {
+                "date" : "06-12-2022",
+                "time" : "19:00 UTC" 
+            }
+        },
+        {
+            "team":
+            [
+                {
+                    "name": "Argentina",
+                    "image": "https://flagsapi.com/AR/flat/64.png",
+                    "score": ""
+                },
+                {
+                    "name": "Netherlands",
+                    "image": "https://flagsapi.com/NL/flat/64.png",
+                    "score": ""
+                }
+            ],
+            "info": 
+            {
+                "date" : "09-12-2022",
+                "time" : "19:00 UTC" 
             }
         }
     ]
