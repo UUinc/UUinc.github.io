@@ -1,0 +1,85 @@
+{
+    "games":
+    [
+        {
+            "team":
+            [
+                {
+                    "name": "USA",
+                    "image": "https://flagsapi.com/US/flat/64.png",
+                    "score": "1"
+                },
+                {
+                    "name": "Netherlands",
+                    "image": "https://flagsapi.com/NL/flat/64.png",
+                    "score": "3"
+                }
+            ],
+            "info": 
+            {
+                "date" : "03-12-2022",
+                "time" : "Full time" 
+            }
+        },
+        {
+            "team":
+            [
+                {
+                    "name": "Australia",
+                    "image": "https://flagsapi.com/AU/flat/64.png",
+                    "score": "1"
+                },
+                {
+                    "name": "Argentina",
+                    "image": "https://flagsapi.com/AR/flat/64.png",
+                    "score": "2"
+                }
+            ],
+            "info": 
+            {
+                "date" : "03-12-2022",
+                "time" : "Full time" 
+            }
+        },
+        {
+            "team":
+            [
+                {
+                    "name": "Poland",
+                    "image": "https://flagsapi.com/PL/flat/64.png",
+                    "score": ""
+                },
+                {
+                    "name": "France",
+                    "image": "https://flagsapi.com/FR/flat/64.png",
+                    "score": ""
+                }
+            ],
+            "info": 
+            {
+                "date" : "04-12-2022",
+                "time" : "15:00 UTC" 
+            }
+        },
+        {
+            "team":
+            [
+                {
+                    "name": "Senegal",
+                    "image": "https://flagsapi.com/SN/flat/64.png",
+                    "score": ""
+                },
+                {
+                    "name": "England",
+                    "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
+                    "score": ""
+                }
+            ],
+            "info": 
+            {
+                "date" : "04-12-2022",
+                "time" : "15:00 UTC" 
+            }
+        }
+    ]
+}
