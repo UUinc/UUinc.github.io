@@ -73,7 +73,7 @@
                 },
                 {
                     "name": "Iran",
-                    "image": "",
+                    "image": "https://flagsapi.com/IR/flat/64.png",
                     "info":
                     {
                         "win": "1",
@@ -83,11 +83,287 @@
                 },
                 {
                     "name": "Wales",
-                    "image": "",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg",
                     "info":
                     {
                         "win": "0",
                         "draw": "1",
+                        "lose": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "group": "C",
+            "team":
+            [
+                {
+                    "name": "Argentina",
+                    "image": "https://flagsapi.com/AR/flat/64.png",
+                    "info":
+                    {
+                        "win": "2",
+                        "draw": "0",
+                        "lose": "1"
+                    }
+                },
+                {
+                    "name": "Poland",
+                    "image": "https://flagsapi.com/PL/flat/64.png",
+                    "info":
+                    {
+                        "win": "1",
+                        "draw": "1",
+                        "lose": "1"
+                    }
+                },
+                {
+                    "name": "Mexico",
+                    "image": "https://flagsapi.com/MX/flat/64.png",
+                    "info":
+                    {
+                        "win": "1",
+                        "draw": "1",
+                        "lose": "1"
+                    }
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "image": "https://flagsapi.com/SA/flat/64.png",
+                    "info":
+                    {
+                        "win": "1",
+                        "draw": "0",
+                        "lose": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "group": "D",
+            "team":
+            [
+                {
+                    "name": "France",
+                    "image": "https://flagsapi.com/FR/flat/64.png",
+                    "info":
+                    {
+                        "win": "2",
+                        "draw": "0",
+                        "lose": "1"
+                    }
+                },
+                {
+                    "name": "Australia",
+                    "image": "https://flagsapi.com/AU/flat/64.png",
+                    "info":
+                    {
+                        "win": "2",
+                        "draw": "0",
+                        "lose": "1"
+                    }
+                },
+                {
+                    "name": "Tunisia",
+                    "image": "https://flagsapi.com/TN/flat/64.png",
+                    "info":
+                    {
+                        "win": "1",
+                        "draw": "1",
+                        "lose": "1"
+                    }
+                },
+                {
+                    "name": "Denmark",
+                    "image": "https://flagsapi.com/DK/flat/64.png",
+                    "info":
+                    {
+                        "win": "0",
+                        "draw": "1",
+                        "lose": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "group": "E",
+            "team":
+            [
+                {
+                    "name": "Japan",
+                    "image": "https://flagsapi.com/JP/flat/64.png",
+                    "info":
+                    {
+                        "win": "2",
+                        "draw": "0",
+                        "lose": "1"
+                    }
+                },
+                {
+                    "name": "Spain",
+                    "image": "https://flagsapi.com/ES/flat/64.png",
+                    "info":
+                    {
+                        "win": "1",
+                        "draw": "1",
+                        "lose": "1"
+                    }
+                },
+                {
+                    "name": "Germany",
+                    "image": "https://flagsapi.com/DE/flat/64.png",
+                    "info":
+                    {
+                        "win": "1",
+                        "draw": "1",
+                        "lose": "1"
+                    }
+                },
+                {
+                    "name": "Costa Rica",
+                    "image": "https://flagsapi.com/CR/flat/64.png",
+                    "info":
+                    {
+                        "win": "1",
+                        "draw": "0",
+                        "lose": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "group": "F",
+            "team":
+            [
+                {
+                    "name": "Morocco",
+                    "image": "https://flagsapi.com/MA/flat/64.png",
+                    "info":
+                    {
+                        "win": "2",
+                        "draw": "1",
+                        "lose": "0"
+                    }
+                },
+                {
+                    "name": "Croatia",
+                    "image": "https://flagsapi.com/HR/flat/64.png",
+                    "info":
+                    {
+                        "win": "1",
+                        "draw": "2",
+                        "lose": "0"
+                    }
+                },
+                {
+                    "name": "Belgium",
+                    "image": "https://flagsapi.com/BE/flat/64.png",
+                    "info":
+                    {
+                        "win": "1",
+                        "draw": "1",
+                        "lose": "1"
+                    }
+                },
+                {
+                    "name": "Canada",
+                    "image": "https://flagsapi.com/CA/flat/64.png",
+                    "info":
+                    {
+                        "win": "0",
+                        "draw": "0",
+                        "lose": "3"
+                    }
+                }
+            ]
+        },
+        {
+            "group": "G",
+            "team":
+            [
+                {
+                    "name": "Brazil",
+                    "image": "https://flagsapi.com/BR/flat/64.png",
+                    "info":
+                    {
+                        "win": "2",
+                        "draw": "0",
+                        "lose": "1"
+                    }
+                },
+                {
+                    "name": "Switzerland",
+                    "image": "https://flagsapi.com/CH/flat/64.png",
+                    "info":
+                    {
+                        "win": "2",
+                        "draw": "0",
+                        "lose": "1"
+                    }
+                },
+                {
+                    "name": "Cameroon",
+                    "image": "https://flagsapi.com/CM/flat/64.png",
+                    "info":
+                    {
+                        "win": "1",
+                        "draw": "1",
+                        "lose": "1"
+                    }
+                },
+                {
+                    "name": "Serbia",
+                    "image": "https://flagsapi.com/RS/flat/64.png",
+                    "info":
+                    {
+                        "win": "0",
+                        "draw": "1",
+                        "lose": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "group": "H",
+            "team":
+            [
+                {
+                    "name": "Portugal",
+                    "image": "https://flagsapi.com/PT/flat/64.png",
+                    "info":
+                    {
+                        "win": "2",
+                        "draw": "0",
+                        "lose": "1"
+                    }
+                },
+                {
+                    "name": "South Korea",
+                    "image": "https://flagsapi.com/KR/flat/64.png",
+                    "info":
+                    {
+                        "win": "1",
+                        "draw": "1",
+                        "lose": "1"
+                    }
+                },
+                {
+                    "name": "Uruguay",
+                    "image": "https://flagsapi.com/UY/flat/64.png",
+                    "info":
+                    {
+                        "win": "1",
+                        "draw": "1",
+                        "lose": "1"
+                    }
+                },
+                {
+                    "name": "Ghana",
+                    "image": "https://flagsapi.com/GH/flat/64.png",
+                    "info":
+                    {
+                        "win": "1",
+                        "draw": "0",
                         "lose": "2"
                     }
                 }
