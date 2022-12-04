@@ -71,12 +71,12 @@
                         {
                             "name": "England",
                             "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
-                            "score": ""
+                            "score": "3"
                         },
                         {
                             "name": "Senegal",
                             "image": "https://flagsapi.com/SN/flat/64.png",
-                            "score": ""
+                            "score": "0"
                         }
                     ]
                 },
