@@ -41,12 +41,12 @@
                         {
                             "name": "Japan",
                             "image": "https://flagsapi.com/JP/flat/64.png",
-                            "score": "1"
+                            "score": "1 (1)"
                         },
                         {
                             "name": "Croatia",
                             "image": "https://flagsapi.com/HR/flat/64.png",
-                            "score": "1"
+                            "score": "1 (3)"
                         }
                     ]
                 },
@@ -150,8 +150,8 @@
                     "team":
                     [
                         {
-                            "name": "?",
-                            "image": "",
+                            "name": "Croatia",
+                            "image": "https://flagsapi.com/HR/flat/64.png",
                             "score": ""
                         },
                         {
