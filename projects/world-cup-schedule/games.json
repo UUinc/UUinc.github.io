@@ -127,18 +127,18 @@
                 {
                     "name": "Spain",
                     "image": "https://flagsapi.com/ES/flat/64.png",
-                    "score": ""
+                    "score": "0"
                 },
                 {
                     "name": "Morocco",
                     "image": "https://flagsapi.com/MA/flat/64.png",
-                    "score": ""
+                    "score": "0"
                 }
             ],
             "info": 
             {
                 "date" : "06-12-2022",
-                "time" : "15:00 UTC" 
+                "time" : "Half time" 
             }
         },
         {

@@ -101,12 +101,12 @@
                         {
                             "name": "Morocco",
                             "image": "https://flagsapi.com/MA/flat/64.png",
-                            "score": ""
+                            "score": "0"
                         },
                         {
                             "name": "Spain",
                             "image": "https://flagsapi.com/ES/flat/64.png",
-                            "score": ""
+                            "score": "0"
                         }
                     ]
                 },
