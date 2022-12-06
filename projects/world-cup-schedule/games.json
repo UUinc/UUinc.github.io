@@ -165,6 +165,26 @@
             "team":
             [
                 {
+                    "name": "Brazil",
+                    "image": "https://flagsapi.com/BR/flat/64.png",
+                    "score": ""
+                },
+                {
+                    "name": "Croatia",
+                    "image": "https://flagsapi.com/HR/flat/64.png",
+                    "score": ""
+                }
+            ],
+            "info": 
+            {
+                "date" : "09-12-2022",
+                "time" : "15:00 UTC" 
+            }
+        },
+        {
+            "team":
+            [
+                {
                     "name": "Argentina",
                     "image": "https://flagsapi.com/AR/flat/64.png",
                     "score": ""
