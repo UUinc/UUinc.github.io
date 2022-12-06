@@ -56,12 +56,12 @@
                         {
                             "name": "Brazil",
                             "image": "https://flagsapi.com/BR/flat/64.png",
-                            "score": ""
+                            "score": "4"
                         },
                         {
                             "name": "South Korea",
                             "image": "https://flagsapi.com/KR/flat/64.png",
-                            "score": ""
+                            "score": "1"
                         }
                     ]
                 },
@@ -155,8 +155,8 @@
                             "score": ""
                         },
                         {
-                            "name": "?",
-                            "image": "",
+                            "name": "Brazil",
+                            "image": "https://flagsapi.com/BR/flat/64.png",
                             "score": ""
                         }
                     ]
