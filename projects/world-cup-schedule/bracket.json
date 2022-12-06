@@ -116,12 +116,12 @@
                         {
                             "name": "Portugal",
                             "image": "https://flagsapi.com/PT/flat/64.png",
-                            "score": ""
+                            "score": "6"
                         },
                         {
                             "name": "Switzerland",
                             "image": "https://flagsapi.com/CH/flat/64.png",
-                            "score": ""
+                            "score": "1"
                         }
                     ]
                 }
@@ -185,8 +185,8 @@
                             "score": ""
                         },
                         {
-                            "name": "?",
-                            "image": "",
+                            "name": "Portugal",
+                            "image": "https://flagsapi.com/PT/flat/64.png",
                             "score": ""
                         }
                     ]
