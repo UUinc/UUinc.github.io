@@ -167,18 +167,18 @@
                 {
                     "name": "Brazil",
                     "image": "https://flagsapi.com/BR/flat/64.png",
-                    "score": ""
+                    "score": "1"
                 },
                 {
                     "name": "Croatia",
                     "image": "https://flagsapi.com/HR/flat/64.png",
-                    "score": ""
+                    "score": "1"
                 }
             ],
             "info": 
             {
                 "date" : "09-12-2022",
-                "time" : "15:00 UTC" 
+                "time" : "Full time" 
             }
         },
         {
@@ -187,18 +187,18 @@
                 {
                     "name": "Argentina",
                     "image": "https://flagsapi.com/AR/flat/64.png",
-                    "score": ""
+                    "score": "1"
                 },
                 {
                     "name": "Netherlands",
                     "image": "https://flagsapi.com/NL/flat/64.png",
-                    "score": ""
+                    "score": "0"
                 }
             ],
             "info": 
             {
                 "date" : "09-12-2022",
-                "time" : "19:00 UTC" 
+                "time" : "Half time" 
             }
         },
         {
