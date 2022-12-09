@@ -187,18 +187,18 @@
                 {
                     "name": "Argentina",
                     "image": "https://flagsapi.com/AR/flat/64.png",
-                    "score": "1"
+                    "score": "2"
                 },
                 {
                     "name": "Netherlands",
                     "image": "https://flagsapi.com/NL/flat/64.png",
-                    "score": "0"
+                    "score": "2"
                 }
             ],
             "info": 
             {
                 "date" : "09-12-2022",
-                "time" : "Half time" 
+                "time" : "Full time" 
             }
         },
         {
