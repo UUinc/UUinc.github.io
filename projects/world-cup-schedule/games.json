@@ -240,6 +240,26 @@
                 "date" : "10-12-2022",
                 "time" : "19:00 UTC" 
             }
+        },
+        {
+            "team":
+            [
+                {
+                    "name": "Argentina",
+                    "image": "https://flagsapi.com/AR/flat/64.png",
+                    "score": ""
+                },
+                {
+                    "name": "Croatia",
+                    "image": "https://flagsapi.com/HR/flat/64.png",
+                    "score": ""
+                }
+            ],
+            "info": 
+            {
+                "date" : "13-12-2022",
+                "time" : "19:00 UTC" 
+            }
         }
     ]
 }
