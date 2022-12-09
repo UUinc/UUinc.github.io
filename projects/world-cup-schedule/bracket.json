@@ -137,12 +137,12 @@
                         {
                             "name": "Netherlands",
                             "image": "https://flagsapi.com/NL/flat/64.png",
-                            "score": ""
+                            "score": "0"
                         },
                         {
                             "name": "Argentina",
                             "image": "https://flagsapi.com/AR/flat/64.png",
-                            "score": ""
+                            "score": "1"
                         }
                     ]
                 },
@@ -152,12 +152,12 @@
                         {
                             "name": "Croatia",
                             "image": "https://flagsapi.com/HR/flat/64.png",
-                            "score": ""
+                            "score": "1 (4)"
                         },
                         {
                             "name": "Brazil",
                             "image": "https://flagsapi.com/BR/flat/64.png",
-                            "score": ""
+                            "score": "1 (2)"
                         }
                     ]
                 },
@@ -201,8 +201,8 @@
                     "team":
                     [
                         {
-                            "name": "?",
-                            "image": "",
+                            "name": "Croatia",
+                            "image": "https://flagsapi.com/HR/flat/64.png",
                             "score": ""
                         },
                         {
