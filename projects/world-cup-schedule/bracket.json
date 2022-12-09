@@ -137,7 +137,7 @@
                         {
                             "name": "Netherlands",
                             "image": "https://flagsapi.com/NL/flat/64.png",
-                            "score": "1"
+                            "score": "2"
                         },
                         {
                             "name": "Argentina",
@@ -201,8 +201,8 @@
                     "team":
                     [
                         {
-                            "name": "Argentina",
-                            "image": "https://flagsapi.com/AR/flat/64.png",
+                            "name": "?",
+                            "image": "",
                             "score": ""
                         },
                         {
