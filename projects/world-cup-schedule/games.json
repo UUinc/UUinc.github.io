@@ -227,18 +227,18 @@
                 {
                     "name": "France",
                     "image": "https://flagsapi.com/FR/flat/64.png",
-                    "score": ""
+                    "score": "2"
                 },
                 {
                     "name": "England",
                     "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
-                    "score": ""
+                    "score": "1"
                 }
             ],
             "info": 
             {
                 "date" : "10-12-2022",
-                "time" : "19:00 UTC" 
+                "time" : "Full time" 
             }
         },
         {
@@ -258,6 +258,26 @@
             "info": 
             {
                 "date" : "13-12-2022",
+                "time" : "19:00 UTC" 
+            }
+        },
+        {
+            "team":
+            [
+                {
+                    "name": "France",
+                    "image": "https://flagsapi.com/FR/flat/64.png",
+                    "score": ""
+                },
+                {
+                    "name": "Morocco",
+                    "image": "https://flagsapi.com/MA/flat/64.png",
+                    "score": ""
+                }
+            ],
+            "info": 
+            {
+                "date" : "14-12-2022",
                 "time" : "19:00 UTC" 
             }
         }
