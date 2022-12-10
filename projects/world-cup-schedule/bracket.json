@@ -182,12 +182,12 @@
                         {
                             "name": "Morocco",
                             "image": "https://flagsapi.com/MA/flat/64.png",
-                            "score": ""
+                            "score": "1"
                         },
                         {
                             "name": "Portugal",
                             "image": "https://flagsapi.com/PT/flat/64.png",
-                            "score": ""
+                            "score": "0"
                         }
                     ]
                 }
