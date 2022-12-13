@@ -203,12 +203,12 @@
                         {
                             "name": "Argentina",
                             "image": "https://flagsapi.com/AR/flat/64.png",
-                            "score": ""
+                            "score": "3"
                         },
                         {
                             "name": "Croatia",
                             "image": "https://flagsapi.com/HR/flat/64.png",
-                            "score": ""
+                            "score": "0"
                         }
                     ]
                 },
@@ -237,8 +237,8 @@
                     "team":
                     [
                         {
-                            "name": "?",
-                            "image": "",
+                            "name": "Croatia",
+                            "image": "https://flagsapi.com/HR/flat/64.png",
                             "score": ""
                         },
                         {
@@ -258,8 +258,8 @@
                     "team":
                     [
                         {
-                            "name": "?",
-                            "image": "",
+                            "name": "Argentina",
+                            "image": "https://flagsapi.com/AR/flat/64.png",
                             "score": ""
                         },
                         {
