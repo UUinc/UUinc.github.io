@@ -218,12 +218,12 @@
                         {
                             "name": "France",
                             "image": "https://flagsapi.com/FR/flat/64.png",
-                            "score": ""
+                            "score": "2"
                         },
                         {
                             "name": "Morocco",
                             "image": "https://flagsapi.com/MA/flat/64.png",
-                            "score": ""
+                            "score": "0"
                         }
                     ]
                 }
@@ -242,8 +242,8 @@
                             "score": ""
                         },
                         {
-                            "name": "?",
-                            "image": "",
+                            "name": "Morocco",
+                            "image": "https://flagsapi.com/MA/flat/64.png",
                             "score": ""
                         }
                     ]
@@ -263,8 +263,8 @@
                             "score": ""
                         },
                         {
-                            "name": "?",
-                            "image": "",
+                            "name": "France",
+                            "image": "https://flagsapi.com/FR/flat/64.png",
                             "score": ""
                         }
                     ]
