@@ -307,18 +307,18 @@
                 {
                     "name": "France",
                     "image": "https://flagsapi.com/FR/flat/64.png",
-                    "score": ""
+                    "score": "3"
                 },
                 {
                     "name": "Argentina",
                     "image": "https://flagsapi.com/AR/flat/64.png",
-                    "score": ""
+                    "score": "3"
                 }
             ],
             "info": 
             {
                 "date" : "18-12-2022",
-                "time" : "15:00 UTC" 
+                "time" : "Full time" 
             }
         }
     ]
