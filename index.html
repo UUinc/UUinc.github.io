@@ -15,14 +15,19 @@
             crossorigin="anonymous"></script>
     </head>
     <body>
-        <script>
-            function GoToSite()
-            {
-                window.open("https://uuinc.github.io/uusoftware","_self");
-            }
-            GoToSite();
-        </script>
+        <!-- Header -->
         <h1 class="title">UU Software</h1>
         <button onclick="GoToSite()">Official website</button>
+        
+        <!-- Game -->
+        <div id="game">
+            <div id="obstacle"></div>
+            <div id="hole"></div>
+            <div id="bird"></div>
+        </div>
+
+        <!-- scripts -->
+        <script src="assets/js/index.js"></script>
+        <script src="assets/js/game.js"></script>
     </body>
 </html>
