@@ -1,33 +1,82 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="UU Software is a software company founded by Yahya Lazrek.">
-        <meta name="author" content="Yahya Lazrek">
+        <meta charset="utf-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+        />
+        <meta
+            name="description"
+            content="UU Software is a software company founded by Yahya Lazrek."
+        />
+        <meta name="author" content="Yahya Lazrek" />
         <title>UU Software</title>
 
         <!-- Favicons -->
-        <link href="assets/imgs/favicon.png" rel="icon">
-        <link rel="stylesheet" href="assets/css/style.css">
+        <link href="assets/imgs/favicon.png" rel="icon" />
+        <!-- css -->
+        <link rel="stylesheet" href="assets/css/style.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2596681790141086"
-            crossorigin="anonymous"></script>
+        <script
+            async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2596681790141086"
+            crossorigin="anonymous"
+        ></script>
     </head>
     <body>
-        <!-- Header -->
-        <h1 class="title">UU Software</h1>
-        <button onclick="GoToSite()">Official website</button>
-        
-        <!-- Game -->
-        <div id="game">
-            <div id="obstacle"></div>
-            <div id="hole"></div>
-            <div id="bird"></div>
+        <div id="card">
+            <img src="assets/imgs/yahyalazrek.png" alt="yahya picture">
+            <h1>Yahya Lazrek</h1>
+            <p>Software engineer student</p>
+            <div class="social-media">
+                <ul>
+                    <li>
+                        <a href="https://www.linkedin.com/in/yahyalazrek/" target="_blank">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-linkedin fa-stack-1x fa-inverse" style="color:rgb(18, 31, 85);"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/yahya.lz/" target="_blank">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-instagram fa-stack-1x fa-inverse" style="color:rgb(18, 31, 85);"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/yahya_lz" target="_blank">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-twitter fa-stack-1x fa-inverse" style="color:rgb(18, 31, 85);"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/UUinc" target="_blank">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-github fa-stack-1x fa-inverse" style="color:rgb(18, 31, 85);"></i>
+                            </span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <!-- Other Contact -->
+            <div class="contact">
+                <button onclick="GoToLink('https://uusoft.itch.io/')">Itchio</button>
+                <button onclick="GoToLink('https://www.youtube.com/@uusoft6144')">Youtube</button>
+                <button onclick="GoToLink('https://play.google.com/store/apps/dev?id=4736084601363370187')">Google Play</button>
+                <button onclick="GoToLink('https://github.com/UUinc')">Github</button>
+                <button id="website-btn" onclick="GoToSite()">Website</button>
+            </div>
         </div>
 
         <!-- scripts -->
         <script src="assets/js/index.js"></script>
-        <script src="assets/js/game.js"></script>
     </body>
 </html>
