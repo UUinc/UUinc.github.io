@@ -225,7 +225,7 @@
         },
         {
             "title": "Better Call Saul",
-            "new": "true",
+            "new": "false",
             "characters": 
             [
                 "Gus Fring", "Kim Wexler", "Jimmy McGill", "Lalo Salamanca", "Mike Ehrmantraut"
@@ -336,7 +336,7 @@
         },
         {
             "title": "Mr. Robot",
-            "new": "true",
+            "new": "false",
             "characters": 
             [
                 "Angela Moss", "Whiterose", "Darlene Alderson", "Elliot Alderson", "Tyrell Wellick", "Philip Price"
@@ -447,7 +447,7 @@
         },
         {
             "title": "Euphoria",
-            "new": "true",
+            "new": "false",
             "characters": 
             [
                 "Gia Bennet", "Ethan Lewis", "Cassie Howard", "Maddy Perez", "Rue Bennett", "Nate Jacobs", "Jules Vaughn", "Fezco", "Lexi Howard", "Kat Hernandez"
@@ -558,7 +558,7 @@
           },
           {
             "title": "Squid Game",
-            "new": "true",
+            "new": "false",
             "characters": 
             [
                 "Front Man", "Player 001", "Player 199", "Player 456", "Player 101", "Player 067", "Player 212", "Player 218", "Hwang Jun-Ho", "Player 240"
@@ -669,7 +669,7 @@
       },
       {
         "title": "Outer Banks",
-        "new": "true",
+        "new": "false",
         "characters": 
         [
             "Deputy Shoupe", "Pope", "Topper", "Sarah Cameron", "Rafe", "John B", "Ward Cameron", "Kiara", "JJ", "Wheezie"

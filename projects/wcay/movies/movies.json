@@ -2,8 +2,110 @@
     "movie":
     [
         {
-            "title": "Harry Potter",
+            "title": "Oppenheimer",
             "new": "true",
+            "characters": [
+                "Leslie Groves",
+                "Robert Oppenheimer",
+                "Kitty Oppenheimer",
+                "Lewis Strauss"
+            ],
+            "quiz": [
+                {
+                    "Question": "When was Julius Robert Oppenheimer born?",
+                    "Answers": [
+                        "9 February 1905",
+                        "22 April 1904",
+                        "3 August 1901",
+                        "28 October 1903"
+                    ]
+                },
+                {
+                    "Question": "Where was Julius Robert Oppenheimer born?",
+                    "Answers": [
+                        "Berlin",
+                        "Pretoria",
+                        "Sacramento",
+                        "New York"
+                    ]
+                },
+                {
+                    "Question": "What was the code name for USA’s research work for atomic bomb?",
+                    "Answers": [
+                        "Operation Black Thunder",
+                        "Operation Red Rose",
+                        "Manhattan Project",
+                        "Arizona Project"
+                    ]
+                },
+                {
+                    "Question": "When was Julius Robert Oppenheimer director of Los Alamos laboratory for developing atomic bomb?",
+                    "Answers": [
+                        "1946-1948",
+                        "1943-1945",
+                        "1952-1954",
+                        "1936-1939"
+                    ]
+                },
+                {
+                    "Question": "Why Is Oppenheimer Mostly In Black & White?",
+                    "Answers": [
+                        "I don't know",
+                        "To give emotions",
+                        "To make explosions looks more effective",
+                        "Black and white aesthetic"
+                    ]
+                },
+                {
+                    "Question": "How did Oppenheimer feel about the atomic bomb?",
+                    "Answers": [
+                        "Developing the bomb as a necessary evil",
+                        "Supported the bomb",
+                        "Mixed feelings, ethical concerns",
+                        "Guilt and regret"
+                    ]
+                },
+                {
+                    "Question": "What is the difference between a nuclear bomb and an atomic bomb?",
+                    "Answers": [
+                        "Fusion and fission reactions differentiate nuclear from atomic",
+                        "Nuclear bombs pack more power with fusion",
+                        "Complexity increases in nuclear bomb design process",
+                        "Larger and heavier due to added fusion components"
+                    ]
+                },
+                {
+                    "Question": "What is the name of the test detonation for the atomic bomb?",
+                    "Answers": [
+                        "Operation Crossroads",
+                        "Castle Bravo",
+                        "Trinity",
+                        "Baker"
+                    ]
+                },
+                {
+                    "Question": "Where did Oppenheimer test the atomic bomb?",
+                    "Answers": [
+                        "Bikini Atoll",
+                        "New Mexico",
+                        "Enewetak Atoll",
+                        "Nevada Test Site"
+                    ]
+                },
+                {
+                    "Question": "Did Oppenheimer win a Nobel Prize?",
+                    "Answers": [
+                        "No Nobel Prize received",
+                        "Awarded one Nobel Prize",
+                        "Not a Nobel laureate",
+                        "Yes, he won two Nobel Prizes"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Harry Potter",
+            "new": "false",
             "characters": 
             [
                 "Draco Malfoy", "Ron Weasley", "Hermione Granger", "Harry Potter", "Severus Snape", "Lord Voldemort", "Dobby"
@@ -114,7 +216,7 @@
         },
         {
             "title": "The Lord of The Rings",
-            "new": "true",
+            "new": "false",
             "characters": 
             [
                 "Gimli", "Gollum", "Legolas", "Aragorn", "Gandalf", "Samwise Gamgee", "Frodo Baggins"
@@ -225,7 +327,7 @@
         },
         {
             "title": "Avatar",
-            "new": "true",
+            "new": "false",
             "characters": 
             [
                 "Eytukan", "Mo'at", "Trudy Chacón", "Colonel Miles Quaritch", "Jake Sully", "Neytiri", "Dr. Grace Augustine", "Parker Selfridge", "Norm Spellman", "Tsu'tey"
@@ -336,7 +438,7 @@
         },
         {
             "title": "Avengers",
-            "new": "true",
+            "new": "false",
             "characters": 
             [
                 "Black Panther", "Black Widow", "Spider-Man", "Thor", "Iron Man", "Hulk", "Captain America", "Doctor Strange", "Ant-Man", "Hawkeye"
@@ -447,7 +549,7 @@
         },
         {
             "title": "Spider-Man",
-            "new": "true",
+            "new": "false",
             "characters": 
             [
                 "May Parker", "MJ", "Peter Parker", "Ned Leeds", "Happy Hogan", "Nick Fury"
@@ -558,7 +660,7 @@
         },
         {
             "title": "Back to the Future",
-            "new": "true",
+            "new": "false",
             "characters": 
             [
                 "Lorraine Baines McFly", "Marty McFly", "Doc Brown", "George McFly", "Clara Clayton"
