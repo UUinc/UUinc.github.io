@@ -225,8 +225,112 @@
             ]
         },
         {
-            "title": "Bleach",
+            "title": "Dragon Ball",
             "new": "true",
+            "characters": [
+                "Krillin",
+                "Frieza",
+                "Goku",
+                "Gohan",
+                "Piccolo",
+                "Vegeta"
+            ],
+            "quiz": [
+                {
+                    "Question": "What will you do if your enemy finds you?",
+                    "Answers": [
+                        "Try to take this fight somewhere else",
+                        "Power up and right away smash them with a finishing move",
+                        "Tell them you don't wish to fight to give you more time",
+                        "Make fun of them"
+                    ]
+                },
+                {
+                    "Question": "The first thing you would do after a great battle is:",
+                    "Answers": [
+                        "Eat a lot",
+                        "Start training",
+                        "Sleep",
+                        "Start your meditation"
+                    ]
+                },
+                {
+                    "Question": "Your enemy is right in front of you, entirely charged up. You:",
+                    "Answers": [
+                        "Wait for their first move",
+                        "Try your best to intimidate them",
+                        "Use fusion and get it over with",
+                        "Laugh at their weak power"
+                    ]
+                },
+                {
+                    "Question": "You have collected all seven dragon balls, you:",
+                    "Answers": [
+                        "Give your wish to someone in need",
+                        "Wish for more power",
+                        "Wish to bring someone back from the dead",
+                        "Wish for some time off for school"
+                    ]
+                },
+                {
+                    "Question": "You have hit your enemy with everything you have, and they are still standing. You:",
+                    "Answers": [
+                        "Ask for the earth's energy",
+                        "If you're gonna die, take them with you",
+                        "Talk your way out of there",
+                        "Start yelling at them"
+                    ]
+                },
+                {
+                    "Question": "An enemy terrorizes the people of your planet. You:",
+                    "Answers": [
+                        "Find them and give them a fight of a lifetime",
+                        "Wait for them to find you",
+                        "Fly in circles around them to make them dizzy",
+                        "Send the soldiers to do the job"
+                    ]
+                },
+                {
+                    "Question": "You find out there is someone stronger than you. Your reaction is:",
+                    "Answers": [
+                        "Happy to find someone that could teach you new things",
+                        "Don't care!",
+                        "Angry at the fact that you aren't the strongest",
+                        "Challenge them"
+                    ]
+                },
+                {
+                    "Question": "Your enemy throws such a powerful attack that it could destroy your planet. You would:",
+                    "Answers": [
+                        "Try to reflect it into the sky",
+                        "Throw your strongest attack at it",
+                        "Hope someone will come to help",
+                        "Smack it like it was a petty move"
+                    ]
+                },
+                {
+                    "Question": "You are faced off with an opponent in a tournament. You:",
+                    "Answers": [
+                        "Wish them the best of luck",
+                        "Stay quiet and see what they got",
+                        "Tell them there's no way they can win",
+                        "Start the fight asap"
+                    ]
+                },
+                {
+                    "Question": "If you wanted to use a high attack, it would be:",
+                    "Answers": [
+                        "Spirit bomb",
+                        "Final flash attack",
+                        "Super exploding ghost attack",
+                        "Special beam cannon"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Bleach",
+            "new": "false",
             "characters": 
             [
                 "Orihime Inoue", "Rukia Kuchiki", "Ichigo Kurosaki", "Uryū Ishida"
