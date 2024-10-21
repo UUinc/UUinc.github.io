@@ -3,7 +3,7 @@
     [
         {
             "title": "House of the Dragon",
-            "new": "true",
+            "new": "false",
             "characters": 
             [
                 "King Viserys Targaryen", "Alicent Hightower", "Aegon Targaryen", "Rhaenyra Targaryen", "Criston Cole", "Daemon Targaryen", "Lucerys Velaryon"
@@ -114,7 +114,7 @@
         },
         {
             "title": "Stranger Things",
-            "new": "true",
+            "new": "false",
             "characters": 
             [
                 "Steve Harrington", "Jonathan Byers", "Will Byers", "Mike Wheeler", "Eleven", "Dustin Henderson", "Joyce Byers", "Lucas Sinclair", "Max Mayfield", "Jim Hopper"
