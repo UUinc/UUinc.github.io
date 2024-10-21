@@ -3,7 +3,7 @@
     [
         {
             "title": "One Piece",
-            "new": "true",
+            "new": "false",
             "characters": 
             [
                 "Smoker", "Crocodile", "Tony Tony Chopper", "Usopp", "Portgas D. Ace", "Roronoa Zoro", "Monkey D. Luffy", "Nami", "Boa Hancock", "Trafalgar Law", "Sanji", "Shanks", "Donquixote Doflamingo", "Jinbe"
@@ -115,7 +115,7 @@
         ,
         {
             "title": "Naruto Shippuden",
-            "new": "true",
+            "new": "false",
             "characters": 
             [
                 "Kabuto Yakushi", "Minato Namikaze", "Madara Uchiha", "Tenten", "Yamato", "Sai", "Neji Hyuga", "Tsunade", "Kakashi Hatake", "Jiraiya", "Naruto Uzumaki", "Hinata Hyuga", "Gaara", "Orochimaru", "Sasuke Uchiha", "Sakura Haruno", "Itachi Uchiha", "Kiba Inuzuka", "Rock Lee", "Hiruzen Sarutobi", "Shikamaru Nara", "Obito Uchiha", "Choji Akimichi", "Nagato", "Ino Yamanaka", "Shino Aburame", "Might Guy", "Killer B"
@@ -226,7 +226,7 @@
         },
         {
             "title": "Dragon Ball",
-            "new": "true",
+            "new": "false",
             "characters": [
                 "Krillin",
                 "Frieza",
